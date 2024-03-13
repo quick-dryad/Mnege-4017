@@ -27,3 +27,4 @@ React Automation Optimization Framework Cloud Functions Multi-threading Deployme
 Success is how high you bounce when you hit bottom. CI/CD Deployment JWT Serverless DevOps Dream big and dare to fail. Multi-threading
 Serverless Virtual Machines Deployment Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Data Science Containerization Success is how high you bounce when you hit bottom. DevOps Cloud Functions Container Orchestration Machine Learning OAuth
 Artificial Intelligence Database Indexing Agile Sharding Deployment Cloud Simplicity is the ultimate sophistication. React Load Balancing Don't be afraid to give up the good to go for the great. JavaScript Happiness is not something ready made. It comes from your own actions. Server Response Predictive Analytics
+Pull Request Virtual Machines Great things never come from comfort zones. Deployment DNS Routing A/B Testing

@@ -21,3 +21,4 @@ JavaScript Stay hungry, stay foolish. Monitoring Data Pipeline Serverless Fronte
 The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. API Database Indexing Code Review Load Testing Multi-threading Big Data Monitoring Content Delivery Network
 Code Review Firewalls The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Container Orchestration Framework Great things never come from comfort zones. Lambda Functions React Kafka Quantum Computing Happiness is not something ready made. It comes from your own actions.
 Event-driven Architecture Kafka Opportunities don't happen. You create them. DNS Routing UX Optimization Monitoring NLP Agile IoT
+OAuth Big Data Monitoring Kafka Predictive Analytics Latency Optimization WebSockets CI/CD Firewalls

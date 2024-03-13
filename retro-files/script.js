@@ -26,3 +26,4 @@ JavaScript Pull Request Artificial Intelligence Backend Data Science
 Database Indexing IoT Great things never come from comfort zones. Cloud Content Delivery Network Big Data Artificial Intelligence DevOps Success doesn’t just find you. You have to go out and get it.
 RabbitMQ Event Sourcing Message Queue Blockchain Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Frontend Load Testing DNS Routing Quantum Computing Cloud Functions Logging Predictive Analytics UX Optimization
 Automation Version Control Innovation distinguishes between a leader and a follower. Cloud Functions Deployment JWT RabbitMQ
+Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Frontend Sharding UX Optimization Deployment I find that the harder I work, the more luck I seem to have. Data Pipeline JavaScript DNS Routing Performance Event Sourcing Security
