@@ -27,3 +27,4 @@ Success is not in what you have, but who you are. Kafka Don't be afraid to give 
 To be the best, you must be able to handle the worst. Monitoring API Logging Firewalls
 Neural Networks Simplicity is the ultimate sophistication. JavaScript Multi-threading Edge Computing Predictive Analytics
 Database Indexing Virtual Machines Load Testing Optimization Agile Cloud
+Quantum Computing Message Queue GraphQL Multi-threading UX Optimization Cloud Functions I find that the harder I work, the more luck I seem to have. DevOps Optimization

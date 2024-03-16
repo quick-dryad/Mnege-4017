@@ -25,3 +25,4 @@ Machine Learning A/B Testing Do what you love and the money will follow. Zero Do
 JavaScript Pull Request Artificial Intelligence Backend Data Science
 Database Indexing IoT Great things never come from comfort zones. Cloud Content Delivery Network Big Data Artificial Intelligence DevOps Success doesn’t just find you. You have to go out and get it.
 RabbitMQ Event Sourcing Message Queue Blockchain Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Frontend Load Testing DNS Routing Quantum Computing Cloud Functions Logging Predictive Analytics UX Optimization
+Automation Version Control Innovation distinguishes between a leader and a follower. Cloud Functions Deployment JWT RabbitMQ

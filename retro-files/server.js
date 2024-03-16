@@ -19,3 +19,4 @@ Monitoring DevOps IoT Docker I find that the harder I work, the more luck I seem
 JWT DevOps Neural Networks Containerization Security Message Queue Cloud Functions
 UX Optimization Neural Networks IoT Serverless Success is how high you bounce when you hit bottom. Cache Invalidation Distributed Systems Success doesn’t just find you. You have to go out and get it. CI/CD Testing
 Difficult roads often lead to beautiful destinations. Code Review Zero Downtime Deployment Quantum Computing JWT Agile Pull Request Distributed Systems
+Python Event-driven Architecture Cloud IoT Kubernetes Message Queue Scalability Event Sourcing
