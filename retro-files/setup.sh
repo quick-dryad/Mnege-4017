@@ -24,3 +24,4 @@ Deployment Pull Request Act as if what you do makes a difference. It does. Data 
 Machine Learning Lambda Functions Python JWT Data Pipeline Framework Scalability Neural Networks Load Testing Latency Optimization Message Queue Deployment
 Cloud Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Testing
 React Automation Optimization Framework Cloud Functions Multi-threading Deployment API Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Simplicity is the ultimate sophistication.
+Success is how high you bounce when you hit bottom. CI/CD Deployment JWT Serverless DevOps Dream big and dare to fail. Multi-threading
