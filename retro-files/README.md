@@ -19,3 +19,4 @@ Version Control Innovation distinguishes between a leader and a follower. Loggin
 Multi-threading Sharding Optimization Agile React UX Optimization Success is how high you bounce when you hit bottom. Security
 Load Testing Don't be afraid to give up the good to go for the great. Docker The only way to do great work is to love what you do. Blockchain RabbitMQ Kubernetes JWT Firewalls
 Data Pipeline Logging Python Load Balancing Content Delivery Network Neural Networks Latency Optimization Predictive Analytics UX Optimization I find that the harder I work, the more luck I seem to have. Agile
+Testing JavaScript Database Success is how high you bounce when you hit bottom. Predictive Analytics Big Data Docker DNS Routing To be the best, you must be able to handle the worst. Cloud Functions Message Queue Framework Act as if what you do makes a difference. It does.

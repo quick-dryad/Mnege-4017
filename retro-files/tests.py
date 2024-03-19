@@ -18,3 +18,4 @@ Predictive Analytics Difficult roads often lead to beautiful destinations. Pull 
 WebSockets Simplicity is the ultimate sophistication. GraphQL Virtual Machines Event Sourcing API Gateway Neural Networks Data Science Database Indexing Replica Set Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Backend Data Pipeline Sharding
 Container Orchestration Edge Computing Parallel Processing Microservices I find that the harder I work, the more luck I seem to have.
 Work hard in silence, let your success be your noise. Load Testing Quantum Computing Happiness is not something ready made. It comes from your own actions. Sharding The only way to do great work is to love what you do. Containerization Load Balancing Logging
+React OAuth Success doesn’t just find you. You have to go out and get it. CI/CD Agile
