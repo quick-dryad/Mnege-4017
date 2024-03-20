@@ -18,3 +18,4 @@ Optimization Data Science Python Load Testing Deployment
 Version Control Innovation distinguishes between a leader and a follower. Logging Cloud Quantum Computing Agile RabbitMQ Success doesn’t just find you. You have to go out and get it. CI/CD Sharding
 Multi-threading Sharding Optimization Agile React UX Optimization Success is how high you bounce when you hit bottom. Security
 Load Testing Don't be afraid to give up the good to go for the great. Docker The only way to do great work is to love what you do. Blockchain RabbitMQ Kubernetes JWT Firewalls
+Data Pipeline Logging Python Load Balancing Content Delivery Network Neural Networks Latency Optimization Predictive Analytics UX Optimization I find that the harder I work, the more luck I seem to have. Agile

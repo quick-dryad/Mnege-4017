@@ -28,3 +28,4 @@ Zero Downtime Deployment Performance DNS Routing Opportunities don't happen. You
 Big Data GraphQL Cache Invalidation Work hard in silence, let your success be your noise. Data Pipeline IoT
 JWT API Server Response To be the best, you must be able to handle the worst. Cloud NLP OAuth UX Optimization DNS Routing Replica Set
 Lambda Functions Blockchain The only way to do great work is to love what you do. Neural Networks Data Pipeline Do what you love and the money will follow. A/B Testing Don't be afraid to give up the good to go for the great. NLP Automation
+Version Control Code Review Stay hungry, stay foolish. Replica Set NLP
