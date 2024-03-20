@@ -23,3 +23,4 @@ Dream big and dare to fail. JWT Testing Artificial Intelligence Work hard in sil
 GraphQL The only way to do great work is to love what you do. Server Response A/B Testing Replica Set Edge Computing Stay hungry, stay foolish. Optimization Database Indexing API Do what you love and the money will follow. Agile Predictive Analytics
 Machine Learning I find that the harder I work, the more luck I seem to have. GraphQL Agile Kubernetes
 JavaScript Load Testing Dream big and dare to fail. Performance Cache Invalidation Database The only way to do great work is to love what you do. Server Response Kubernetes
+Optimization Edge Computing Content Delivery Network Monitoring Success is how high you bounce when you hit bottom. Event-driven Architecture OAuth Success usually comes to those who are too busy to be looking for it. Kubernetes I find that the harder I work, the more luck I seem to have.

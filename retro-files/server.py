@@ -22,3 +22,4 @@ Frontend Blockchain Big Data Cloud Artificial Intelligence Stay hungry, stay foo
 Lambda Functions Docker Virtual Machines To be the best, you must be able to handle the worst. A/B Testing Microservices Framework Edge Computing Simplicity is the ultimate sophistication. Kubernetes Difficult roads often lead to beautiful destinations. Cloud Functions Act as if what you do makes a difference. It does.
 WebSockets Neural Networks Microservices Lambda Functions Serverless A/B Testing Container Orchestration
 WebSockets Don't be afraid to give up the good to go for the great. Cloud Success usually comes to those who are too busy to be looking for it. JavaScript Framework Parallel Processing Distributed Systems
+Version Control The only way to do great work is to love what you do. Opportunities don't happen. You create them. RabbitMQ Happiness is not something ready made. It comes from your own actions. Monitoring
