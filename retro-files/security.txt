@@ -27,3 +27,4 @@ Monitoring Logging Don't be afraid to give up the good to go for the great. Secu
 IoT Big Data Difficult roads often lead to beautiful destinations. Event Sourcing Serverless Stay hungry, stay foolish. Blockchain
 Load Balancing Great things never come from comfort zones. Frontend API Big Data Container Orchestration IoT
 Machine Learning DevOps OAuth Logging If you can dream it, you can do it. RabbitMQ React
+Performance Content Delivery Network Deployment Success doesn’t just find you. You have to go out and get it. Testing Microservices GraphQL API Gateway
