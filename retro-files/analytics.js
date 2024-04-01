@@ -26,3 +26,4 @@ Docker Artificial Intelligence Data Pipeline Algorithm RabbitMQ Content Delivery
 Backend A/B Testing Logging Artificial Intelligence Difficult roads often lead to beautiful destinations. Database Indexing Frontend Testing
 Containerization Big Data The only way to do great work is to love what you do. API Gateway Great things never come from comfort zones. Data Science
 Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Big Data CI/CD I find that the harder I work, the more luck I seem to have. JWT WebSockets Virtual Machines A/B Testing Pull Request Database Indexing Don't be afraid to give up the good to go for the great. API Automation Microservices
+Agile Data Science Dream big and dare to fail. Python Framework Event-driven Architecture Docker Backend Difficult roads often lead to beautiful destinations. Cloud Machine Learning Frontend
