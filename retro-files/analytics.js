@@ -24,3 +24,4 @@ OAuth Neural Networks Automation Quantum Computing Stay hungry, stay foolish. UX
 NLP Automation Monitoring Neural Networks Don't be afraid to give up the good to go for the great. Pull Request Kafka Sharding Message Queue
 Docker Artificial Intelligence Data Pipeline Algorithm RabbitMQ Content Delivery Network Quantum Computing Sharding IoT Do what you love and the money will follow. Event-driven Architecture Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it.
 Backend A/B Testing Logging Artificial Intelligence Difficult roads often lead to beautiful destinations. Database Indexing Frontend Testing
+Containerization Big Data The only way to do great work is to love what you do. API Gateway Great things never come from comfort zones. Data Science
