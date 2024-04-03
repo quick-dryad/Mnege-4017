@@ -15,3 +15,4 @@ UX Optimization Logging Optimization DNS Routing React Replica Set OAuth
 Stay hungry, stay foolish. Logging Container Orchestration API If you can dream it, you can do it.
 Artificial Intelligence CI/CD Logging Quantum Computing Optimization Distributed Systems Event Sourcing Lambda Functions Sharding If you can dream it, you can do it. Agile Content Delivery Network Cloud JavaScript
 Predictive Analytics Difficult roads often lead to beautiful destinations. Pull Request JavaScript Machine Learning Testing Code Review IoT To be the best, you must be able to handle the worst. Cloud
+WebSockets Simplicity is the ultimate sophistication. GraphQL Virtual Machines Event Sourcing API Gateway Neural Networks Data Science Database Indexing Replica Set Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Backend Data Pipeline Sharding
