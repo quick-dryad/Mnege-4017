@@ -18,3 +18,4 @@ Cloud Functions Machine Learning Security Pull Request Predictive Analytics Diff
 Event Sourcing Serverless JavaScript Framework Server Response DevOps Performance Parallel Processing GraphQL Frontend Algorithm
 Data Science Performance Act as if what you do makes a difference. It does. Serverless To be the best, you must be able to handle the worst. Pull Request A/B Testing UX Optimization Microservices Load Balancing Cloud Functions Great things never come from comfort zones.
 JavaScript Stay hungry, stay foolish. Monitoring Data Pipeline Serverless Frontend Work hard in silence, let your success be your noise. Cloud Content Delivery Network Replica Set DNS Routing
+The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. API Database Indexing Code Review Load Testing Multi-threading Big Data Monitoring Content Delivery Network

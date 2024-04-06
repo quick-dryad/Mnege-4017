@@ -33,3 +33,4 @@ Don't be afraid to give up the good to go for the great. Docker Deployment API H
 Containerization Server Response Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. GraphQL Framework Agile
 Event-driven Architecture Multi-threading Monitoring API Scalability Simplicity is the ultimate sophistication. Performance Container Orchestration Zero Downtime Deployment Data Science Kafka Artificial Intelligence
 Happiness is not something ready made. It comes from your own actions. Replica Set JavaScript Great things never come from comfort zones. Edge Computing Don't be afraid to give up the good to go for the great. Performance Act as if what you do makes a difference. It does. Multi-threading GraphQL CI/CD Kafka
+Sharding Quantum Computing Monitoring Security OAuth Data Pipeline Virtual Machines Parallel Processing Load Balancing Artificial Intelligence Stay hungry, stay foolish. Distributed Systems
