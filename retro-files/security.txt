@@ -25,3 +25,4 @@ React Kafka If you can dream it, you can do it. API Gateway Multi-threading Succ
 To be the best, you must be able to handle the worst. Load Testing Quantum Computing API Frontend Big Data Monitoring Load Balancing Data Pipeline JavaScript I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it.
 Monitoring Logging Don't be afraid to give up the good to go for the great. Security Framework UX Optimization Artificial Intelligence
 IoT Big Data Difficult roads often lead to beautiful destinations. Event Sourcing Serverless Stay hungry, stay foolish. Blockchain
+Load Balancing Great things never come from comfort zones. Frontend API Big Data Container Orchestration IoT
