@@ -24,3 +24,4 @@ NLP Artificial Intelligence Happiness is not something ready made. It comes from
 React Kafka If you can dream it, you can do it. API Gateway Multi-threading Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Database Indexing Latency Optimization Serverless
 To be the best, you must be able to handle the worst. Load Testing Quantum Computing API Frontend Big Data Monitoring Load Balancing Data Pipeline JavaScript I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it.
 Monitoring Logging Don't be afraid to give up the good to go for the great. Security Framework UX Optimization Artificial Intelligence
+IoT Big Data Difficult roads often lead to beautiful destinations. Event Sourcing Serverless Stay hungry, stay foolish. Blockchain
