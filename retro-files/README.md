@@ -15,3 +15,4 @@ OAuth I find that the harder I work, the more luck I seem to have. To be the bes
 Cloud Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Testing UX Optimization React Frontend Data Pipeline NLP
 Scalability Great things never come from comfort zones. IoT Logging WebSockets Lambda Functions Latency Optimization
 Optimization Data Science Python Load Testing Deployment
+Version Control Innovation distinguishes between a leader and a follower. Logging Cloud Quantum Computing Agile RabbitMQ Success doesn’t just find you. You have to go out and get it. CI/CD Sharding
