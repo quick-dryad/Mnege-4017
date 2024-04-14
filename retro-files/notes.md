@@ -25,3 +25,4 @@ Event-driven Architecture Do what you love and the money will follow. Server Res
 Backend Machine Learning Big Data Scalability DNS Routing A/B Testing Framework DevOps Distributed Systems Database Indexing
 Success usually comes to those who are too busy to be looking for it. Load Balancing Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. CI/CD Latency Optimization
 Innovation distinguishes between a leader and a follower. Data Science Do what you love and the money will follow. Blockchain Microservices Event Sourcing Kafka Predictive Analytics
+Virtual Machines Act as if what you do makes a difference. It does. Scalability Firewalls Data Pipeline If you can dream it, you can do it. Agile Neural Networks IoT Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations.
