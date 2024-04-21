@@ -26,3 +26,4 @@ If you can dream it, you can do it. Edge Computing Container Orchestration I fin
 A/B Testing Act as if what you do makes a difference. It does. Pull Request Edge Computing Opportunities don't happen. You create them. Do what you love and the money will follow. Lambda Functions Code Review
 Zero Downtime Deployment Performance DNS Routing Opportunities don't happen. You create them. Agile API Gateway Load Balancing
 Big Data GraphQL Cache Invalidation Work hard in silence, let your success be your noise. Data Pipeline IoT
+JWT API Server Response To be the best, you must be able to handle the worst. Cloud NLP OAuth UX Optimization DNS Routing Replica Set
