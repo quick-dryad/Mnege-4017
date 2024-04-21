@@ -20,3 +20,4 @@ Container Orchestration Frontend Opportunities don't happen. You create them. Py
 Edge Computing Deployment WebSockets Cache Invalidation Cloud Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Message Queue React Version Control
 Frontend Blockchain Big Data Cloud Artificial Intelligence Stay hungry, stay foolish. Version Control The only way to do great work is to love what you do. Firewalls Opportunities don't happen. You create them. Algorithm Event-driven Architecture CI/CD
 Lambda Functions Docker Virtual Machines To be the best, you must be able to handle the worst. A/B Testing Microservices Framework Edge Computing Simplicity is the ultimate sophistication. Kubernetes Difficult roads often lead to beautiful destinations. Cloud Functions Act as if what you do makes a difference. It does.
+WebSockets Neural Networks Microservices Lambda Functions Serverless A/B Testing Container Orchestration

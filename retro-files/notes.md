@@ -24,3 +24,4 @@ GraphQL Containerization Event-driven Architecture Dream big and dare to fail. D
 Event-driven Architecture Do what you love and the money will follow. Server Response Zero Downtime Deployment JWT Frontend CI/CD Innovation distinguishes between a leader and a follower. DNS Routing Replica Set
 Backend Machine Learning Big Data Scalability DNS Routing A/B Testing Framework DevOps Distributed Systems Database Indexing
 Success usually comes to those who are too busy to be looking for it. Load Balancing Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. CI/CD Latency Optimization
+Innovation distinguishes between a leader and a follower. Data Science Do what you love and the money will follow. Blockchain Microservices Event Sourcing Kafka Predictive Analytics
