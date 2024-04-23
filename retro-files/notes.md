@@ -23,3 +23,4 @@ Simplicity is the ultimate sophistication. Code Review Firewalls Version Control
 GraphQL Containerization Event-driven Architecture Dream big and dare to fail. Database Indexing React DNS Routing Load Balancing JWT OAuth Don't be afraid to give up the good to go for the great. Kafka Simplicity is the ultimate sophistication. A/B Testing
 Event-driven Architecture Do what you love and the money will follow. Server Response Zero Downtime Deployment JWT Frontend CI/CD Innovation distinguishes between a leader and a follower. DNS Routing Replica Set
 Backend Machine Learning Big Data Scalability DNS Routing A/B Testing Framework DevOps Distributed Systems Database Indexing
+Success usually comes to those who are too busy to be looking for it. Load Balancing Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. CI/CD Latency Optimization

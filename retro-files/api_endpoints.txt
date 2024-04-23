@@ -20,3 +20,4 @@ JavaScript Kubernetes Neural Networks Event Sourcing Artificial Intelligence Loa
 Monitoring Python Distributed Systems Optimization Lambda Functions Firewalls
 Don't be afraid to give up the good to go for the great. Machine Learning Backend Neural Networks Difficult roads often lead to beautiful destinations. Parallel Processing If you can dream it, you can do it. WebSockets
 Latency Optimization Data Pipeline Database JavaScript Pull Request Database Indexing Framework Code Review Optimization WebSockets NLP Simplicity is the ultimate sophistication. API Distributed Systems
+Database Predictive Analytics Optimization Cloud I find that the harder I work, the more luck I seem to have. Container Orchestration
