@@ -26,3 +26,4 @@ Opportunities don't happen. You create them. Docker RabbitMQ Message Queue Cloud
 Success is not in what you have, but who you are. Kafka Don't be afraid to give up the good to go for the great. JavaScript Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Cache Invalidation JWT Great things never come from comfort zones. React Automation I find that the harder I work, the more luck I seem to have. Multi-threading API Database Indexing
 To be the best, you must be able to handle the worst. Monitoring API Logging Firewalls
 Neural Networks Simplicity is the ultimate sophistication. JavaScript Multi-threading Edge Computing Predictive Analytics
+Database Indexing Virtual Machines Load Testing Optimization Agile Cloud
