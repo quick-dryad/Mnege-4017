@@ -30,3 +30,4 @@ Virtual Machines Container Orchestration Deployment Message Queue Distributed Sy
 Parallel Processing Server Response Act as if what you do makes a difference. It does. Deployment Latency Optimization The only way to do great work is to love what you do. Serverless If you can dream it, you can do it. JWT Sharding Docker Python
 Cloud Neural Networks Logging OAuth A/B Testing Event-driven Architecture
 Don't be afraid to give up the good to go for the great. Docker Deployment API Happiness is not something ready made. It comes from your own actions. Kubernetes
+Containerization Server Response Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. GraphQL Framework Agile
