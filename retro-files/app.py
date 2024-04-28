@@ -16,3 +16,4 @@ Great things never come from comfort zones. Monitoring Message Queue Kubernetes 
 IoT Firewalls Data Science If you can dream it, you can do it. Server Response The only way to do great work is to love what you do. Big Data
 Cloud Functions Machine Learning Security Pull Request Predictive Analytics Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. API Container Orchestration Do what you love and the money will follow. API Gateway Docker
 Event Sourcing Serverless JavaScript Framework Server Response DevOps Performance Parallel Processing GraphQL Frontend Algorithm
+Data Science Performance Act as if what you do makes a difference. It does. Serverless To be the best, you must be able to handle the worst. Pull Request A/B Testing UX Optimization Microservices Load Balancing Cloud Functions Great things never come from comfort zones.

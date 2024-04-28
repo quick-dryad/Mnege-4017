@@ -17,3 +17,4 @@ Parallel Processing Blockchain Replica Set Security JWT Docker Version Control W
 Microservices To be the best, you must be able to handle the worst. GraphQL A/B Testing NLP Kubernetes Server Response Testing
 JavaScript DevOps GraphQL Zero Downtime Deployment Testing Blockchain Neural Networks WebSockets Kubernetes Distributed Systems Machine Learning Container Orchestration
 JavaScript Kubernetes Neural Networks Event Sourcing Artificial Intelligence Load Testing Big Data To be the best, you must be able to handle the worst.
+Monitoring Python Distributed Systems Optimization Lambda Functions Firewalls
