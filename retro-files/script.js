@@ -23,3 +23,4 @@ Event-driven Architecture Multi-threading CI/CD Database Stay hungry, stay fooli
 The only way to do great work is to love what you do. Backend NLP Distributed Systems Multi-threading
 Machine Learning A/B Testing Do what you love and the money will follow. Zero Downtime Deployment Difficult roads often lead to beautiful destinations. API Happiness is not something ready made. It comes from your own actions. Security Automation Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Python Success is how high you bounce when you hit bottom. Database Indexing
 JavaScript Pull Request Artificial Intelligence Backend Data Science
+Database Indexing IoT Great things never come from comfort zones. Cloud Content Delivery Network Big Data Artificial Intelligence DevOps Success doesn’t just find you. You have to go out and get it.
