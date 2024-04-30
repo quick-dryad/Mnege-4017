@@ -28,3 +28,4 @@ If you can dream it, you can do it. Edge Computing Containerization Algorithm Se
 Edge Computing WebSockets Python Data Pipeline Docker Great things never come from comfort zones. Latency Optimization API Gateway Framework DNS Routing Success doesn’t just find you. You have to go out and get it. UX Optimization Multi-threading
 Virtual Machines Container Orchestration Deployment Message Queue Distributed Systems Scalability
 Parallel Processing Server Response Act as if what you do makes a difference. It does. Deployment Latency Optimization The only way to do great work is to love what you do. Serverless If you can dream it, you can do it. JWT Sharding Docker Python
+Cloud Neural Networks Logging OAuth A/B Testing Event-driven Architecture
