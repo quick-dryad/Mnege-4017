@@ -14,3 +14,4 @@ Content Delivery Network Sharding Message Queue Act as if what you do makes a di
 OAuth I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. API Do what you love and the money will follow. Machine Learning Artificial Intelligence Success usually comes to those who are too busy to be looking for it. Load Balancing Load Testing Cloud Functions Deployment Neural Networks
 Cloud Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Testing UX Optimization React Frontend Data Pipeline NLP
 Scalability Great things never come from comfort zones. IoT Logging WebSockets Lambda Functions Latency Optimization
+Optimization Data Science Python Load Testing Deployment
