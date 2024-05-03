@@ -16,3 +16,4 @@ GraphQL Backend I find that the harder I work, the more luck I seem to have. Web
 Parallel Processing Blockchain Replica Set Security JWT Docker Version Control WebSockets Success doesn’t just find you. You have to go out and get it.
 Microservices To be the best, you must be able to handle the worst. GraphQL A/B Testing NLP Kubernetes Server Response Testing
 JavaScript DevOps GraphQL Zero Downtime Deployment Testing Blockchain Neural Networks WebSockets Kubernetes Distributed Systems Machine Learning Container Orchestration
+JavaScript Kubernetes Neural Networks Event Sourcing Artificial Intelligence Load Testing Big Data To be the best, you must be able to handle the worst.

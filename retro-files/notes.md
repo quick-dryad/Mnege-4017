@@ -22,3 +22,4 @@ Act as if what you do makes a difference. It does. Opportunities don't happen. Y
 Simplicity is the ultimate sophistication. Code Review Firewalls Version Control GraphQL Great things never come from comfort zones. Opportunities don't happen. You create them. Database
 GraphQL Containerization Event-driven Architecture Dream big and dare to fail. Database Indexing React DNS Routing Load Balancing JWT OAuth Don't be afraid to give up the good to go for the great. Kafka Simplicity is the ultimate sophistication. A/B Testing
 Event-driven Architecture Do what you love and the money will follow. Server Response Zero Downtime Deployment JWT Frontend CI/CD Innovation distinguishes between a leader and a follower. DNS Routing Replica Set
+Backend Machine Learning Big Data Scalability DNS Routing A/B Testing Framework DevOps Distributed Systems Database Indexing
