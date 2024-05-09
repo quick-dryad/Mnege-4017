@@ -18,3 +18,4 @@ DevOps Server Response Blockchain Replica Set Event Sourcing Innovation distingu
 Monitoring DevOps IoT Docker I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Event Sourcing Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. API Gateway Deployment
 JWT DevOps Neural Networks Containerization Security Message Queue Cloud Functions
 UX Optimization Neural Networks IoT Serverless Success is how high you bounce when you hit bottom. Cache Invalidation Distributed Systems Success doesn’t just find you. You have to go out and get it. CI/CD Testing
+Difficult roads often lead to beautiful destinations. Code Review Zero Downtime Deployment Quantum Computing JWT Agile Pull Request Distributed Systems
