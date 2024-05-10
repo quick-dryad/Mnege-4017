@@ -14,3 +14,4 @@ Monitoring Deployment Security Event Sourcing Distributed Systems Python Contain
 UX Optimization Logging Optimization DNS Routing React Replica Set OAuth
 Stay hungry, stay foolish. Logging Container Orchestration API If you can dream it, you can do it.
 Artificial Intelligence CI/CD Logging Quantum Computing Optimization Distributed Systems Event Sourcing Lambda Functions Sharding If you can dream it, you can do it. Agile Content Delivery Network Cloud JavaScript
+Predictive Analytics Difficult roads often lead to beautiful destinations. Pull Request JavaScript Machine Learning Testing Code Review IoT To be the best, you must be able to handle the worst. Cloud
