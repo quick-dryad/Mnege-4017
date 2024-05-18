@@ -15,3 +15,4 @@ Deployment WebSockets Virtual Machines GraphQL Happiness is not something ready 
 GraphQL Backend I find that the harder I work, the more luck I seem to have. WebSockets Opportunities don't happen. You create them. JWT Content Delivery Network
 Parallel Processing Blockchain Replica Set Security JWT Docker Version Control WebSockets Success doesn’t just find you. You have to go out and get it.
 Microservices To be the best, you must be able to handle the worst. GraphQL A/B Testing NLP Kubernetes Server Response Testing
+JavaScript DevOps GraphQL Zero Downtime Deployment Testing Blockchain Neural Networks WebSockets Kubernetes Distributed Systems Machine Learning Container Orchestration
