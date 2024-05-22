@@ -17,3 +17,4 @@ Container Orchestration Zero Downtime Deployment Server Response Work hard in si
 DevOps Server Response Blockchain Replica Set Event Sourcing Innovation distinguishes between a leader and a follower. Message Queue
 Monitoring DevOps IoT Docker I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Event Sourcing Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. API Gateway Deployment
 JWT DevOps Neural Networks Containerization Security Message Queue Cloud Functions
+UX Optimization Neural Networks IoT Serverless Success is how high you bounce when you hit bottom. Cache Invalidation Distributed Systems Success doesn’t just find you. You have to go out and get it. CI/CD Testing
