@@ -23,3 +23,4 @@ Kubernetes Success is how high you bounce when you hit bottom. Difficult roads o
 DevOps I find that the harder I work, the more luck I seem to have. Blockchain Load Testing Sharding Success doesn’t just find you. You have to go out and get it. A/B Testing Kafka JavaScript Agile Version Control Simplicity is the ultimate sophistication. Microservices OAuth
 Load Testing Algorithm Machine Learning WebSockets Multi-threading
 NLP Version Control Automation Database Indexing Sharding Framework Replica Set Neural Networks Simplicity is the ultimate sophistication.
+RabbitMQ Multi-threading Opportunities don't happen. You create them. Cloud Functions Deployment

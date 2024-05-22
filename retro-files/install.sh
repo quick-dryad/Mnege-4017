@@ -22,3 +22,4 @@ Kafka Don't be afraid to give up the good to go for the great. Agile Data Pipeli
 Dream big and dare to fail. JWT Testing Artificial Intelligence Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Virtual Machines WebSockets GraphQL Data Science Database Performance
 GraphQL The only way to do great work is to love what you do. Server Response A/B Testing Replica Set Edge Computing Stay hungry, stay foolish. Optimization Database Indexing API Do what you love and the money will follow. Agile Predictive Analytics
 Machine Learning I find that the harder I work, the more luck I seem to have. GraphQL Agile Kubernetes
+JavaScript Load Testing Dream big and dare to fail. Performance Cache Invalidation Database The only way to do great work is to love what you do. Server Response Kubernetes
