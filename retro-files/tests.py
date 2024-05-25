@@ -12,3 +12,4 @@ DNS Routing Python Great things never come from comfort zones. Innovation distin
 Replica Set Container Orchestration Stay hungry, stay foolish. Scalability CI/CD UX Optimization Database Optimization Automation Distributed Systems Success usually comes to those who are too busy to be looking for it.
 Monitoring Deployment Security Event Sourcing Distributed Systems Python Container Orchestration Artificial Intelligence Success is not in what you have, but who you are. Agile Simplicity is the ultimate sophistication. Testing
 UX Optimization Logging Optimization DNS Routing React Replica Set OAuth
+Stay hungry, stay foolish. Logging Container Orchestration API If you can dream it, you can do it.
