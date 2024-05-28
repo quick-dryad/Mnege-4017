@@ -10,3 +10,4 @@ Simplicity is the ultimate sophistication. Sharding UX Optimization Cache Invali
 Security WebSockets Artificial Intelligence Testing Backend GraphQL Load Balancing Multi-threading
 Cloud Functions Distributed Systems Artificial Intelligence Lambda Functions Monitoring Framework IoT Python Microservices Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Data Pipeline Work hard in silence, let your success be your noise. API Gateway
 UX Optimization Version Control Serverless Logging Database Indexing Scalability Algorithm
+Automation Neural Networks Algorithm Predictive Analytics API Gateway Blockchain GraphQL NLP Distributed Systems Docker
