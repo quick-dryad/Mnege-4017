@@ -20,3 +20,4 @@ Python JWT Data Science If you can dream it, you can do it. Stay hungry, stay fo
 Containerization Great things never come from comfort zones. Docker Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. JavaScript Microservices CI/CD
 Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. OAuth Event Sourcing JavaScript Load Balancing Python Optimization Replica Set If you can dream it, you can do it. Latency Optimization
 Simplicity is the ultimate sophistication. Code Review Firewalls Version Control GraphQL Great things never come from comfort zones. Opportunities don't happen. You create them. Database
+GraphQL Containerization Event-driven Architecture Dream big and dare to fail. Database Indexing React DNS Routing Load Balancing JWT OAuth Don't be afraid to give up the good to go for the great. Kafka Simplicity is the ultimate sophistication. A/B Testing
