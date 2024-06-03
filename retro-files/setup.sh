@@ -19,3 +19,4 @@ Latency Optimization Content Delivery Network Cloud Functions Firewalls I find t
 Frontend Load Testing Database Indexing Serverless Success usually comes to those who are too busy to be looking for it. A/B Testing Scalability Event-driven Architecture
 RabbitMQ Agile NLP DNS Routing UX Optimization Replica Set Edge Computing Frontend Backend Predictive Analytics Testing Great things never come from comfort zones.
 NLP Code Review Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. JWT Stay hungry, stay foolish. Frontend
+Deployment Neural Networks Difficult roads often lead to beautiful destinations. React Dream big and dare to fail. Security Blockchain Message Queue Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Load Testing Scalability Kafka IoT Data Science
