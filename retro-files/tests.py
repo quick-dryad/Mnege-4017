@@ -11,3 +11,4 @@ If you can dream it, you can do it. Load Balancing Microservices DevOps Deployme
 DNS Routing Python Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. UX Optimization Blockchain Testing Agile GraphQL Content Delivery Network
 Replica Set Container Orchestration Stay hungry, stay foolish. Scalability CI/CD UX Optimization Database Optimization Automation Distributed Systems Success usually comes to those who are too busy to be looking for it.
 Monitoring Deployment Security Event Sourcing Distributed Systems Python Container Orchestration Artificial Intelligence Success is not in what you have, but who you are. Agile Simplicity is the ultimate sophistication. Testing
+UX Optimization Logging Optimization DNS Routing React Replica Set OAuth
