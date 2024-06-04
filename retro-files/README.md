@@ -9,3 +9,4 @@ Work hard in silence, let your success be your noise. Serverless Event-driven Ar
 Load Balancing Version Control Event-driven Architecture Testing Frontend Neural Networks Opportunities don't happen. You create them. Data Pipeline Message Queue Automation
 Multi-threading Parallel Processing Scalability Data Pipeline DevOps Blockchain Load Balancing Do what you love and the money will follow. Pull Request Testing Virtual Machines The only way to do great work is to love what you do. Container Orchestration
 Python IoT Scalability NLP Load Testing Event-driven Architecture Agile I find that the harder I work, the more luck I seem to have. Pull Request Database Indexing
+Don't be afraid to give up the good to go for the great. API Gateway If you can dream it, you can do it. GraphQL Cache Invalidation Success usually comes to those who are too busy to be looking for it. Latency Optimization Framework Code Review
