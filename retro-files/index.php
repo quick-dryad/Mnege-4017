@@ -10,3 +10,4 @@ Load Balancing WebSockets Cloud Functions Don't be afraid to give up the good to
 Scalability API Quantum Computing A/B Testing Monitoring Dream big and dare to fail.
 Testing Kubernetes Python NLP Docker Simplicity is the ultimate sophistication. UX Optimization Cache Invalidation Containerization Load Testing Container Orchestration Success is not in what you have, but who you are.
 API Gateway Dream big and dare to fail. Opportunities don't happen. You create them. Stay hungry, stay foolish. Kubernetes Deployment
+Load Balancing Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. OAuth Virtual Machines Act as if what you do makes a difference. It does. Database Indexing

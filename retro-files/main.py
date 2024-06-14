@@ -9,3 +9,4 @@ Multi-threading Blockchain Security Event Sourcing Pull Request Agile Cache Inva
 Simplicity is the ultimate sophistication. Sharding UX Optimization Cache Invalidation If you can dream it, you can do it. Work hard in silence, let your success be your noise. Do what you love and the money will follow. Algorithm WebSockets Containerization Zero Downtime Deployment Content Delivery Network Artificial Intelligence Big Data
 Security WebSockets Artificial Intelligence Testing Backend GraphQL Load Balancing Multi-threading
 Cloud Functions Distributed Systems Artificial Intelligence Lambda Functions Monitoring Framework IoT Python Microservices Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Data Pipeline Work hard in silence, let your success be your noise. API Gateway
+UX Optimization Version Control Serverless Logging Database Indexing Scalability Algorithm
