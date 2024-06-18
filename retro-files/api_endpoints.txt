@@ -12,3 +12,4 @@ Neural Networks Testing Containerization Happiness is not something ready made. 
 JavaScript Stay hungry, stay foolish. DevOps Server Response The only way to do great work is to love what you do. Act as if what you do makes a difference. It does.
 A/B Testing Parallel Processing Lambda Functions Quantum Computing Opportunities don't happen. You create them. Message Queue Work hard in silence, let your success be your noise. Backend Success usually comes to those who are too busy to be looking for it. Load Balancing RabbitMQ Cloud UX Optimization
 Deployment WebSockets Virtual Machines GraphQL Happiness is not something ready made. It comes from your own actions. Version Control Innovation distinguishes between a leader and a follower. Frontend
+GraphQL Backend I find that the harder I work, the more luck I seem to have. WebSockets Opportunities don't happen. You create them. JWT Content Delivery Network
