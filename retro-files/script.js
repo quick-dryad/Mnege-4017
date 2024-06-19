@@ -17,3 +17,4 @@ Load Testing RabbitMQ Framework Logging Microservices Cache Invalidation Databas
 Database Indexing Great things never come from comfort zones. JavaScript Big Data Frontend Multi-threading Lambda Functions Pull Request
 CI/CD Serverless To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Python Automation Sharding Neural Networks Zero Downtime Deployment Machine Learning
 Replica Set Containerization Artificial Intelligence API Cache Invalidation Database WebSockets Scalability Blockchain Agile I find that the harder I work, the more luck I seem to have. Performance
+Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Code Review Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Version Control Monitoring Data Pipeline Blockchain The only way to do great work is to love what you do. Load Balancing
