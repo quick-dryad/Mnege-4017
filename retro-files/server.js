@@ -14,3 +14,4 @@ Quantum Computing Stay hungry, stay foolish. Big Data Predictive Analytics Event
 React Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Virtual Machines CI/CD Predictive Analytics Backend Great things never come from comfort zones.
 API The only way to do great work is to love what you do. Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Quantum Computing Kubernetes Database Indexing Event Sourcing Microservices Firewalls Neural Networks Docker
 Container Orchestration Zero Downtime Deployment Server Response Work hard in silence, let your success be your noise. Agile Sharding Database Indexing Machine Learning Distributed Systems Message Queue OAuth
+DevOps Server Response Blockchain Replica Set Event Sourcing Innovation distinguishes between a leader and a follower. Message Queue
