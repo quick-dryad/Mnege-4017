@@ -16,3 +16,4 @@ Multi-threading Microservices Predictive Analytics Neural Networks Success is ho
 Load Testing RabbitMQ Framework Logging Microservices Cache Invalidation Database Indexing Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Frontend Sharding Neural Networks Blockchain
 Database Indexing Great things never come from comfort zones. JavaScript Big Data Frontend Multi-threading Lambda Functions Pull Request
 CI/CD Serverless To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Python Automation Sharding Neural Networks Zero Downtime Deployment Machine Learning
+Replica Set Containerization Artificial Intelligence API Cache Invalidation Database WebSockets Scalability Blockchain Agile I find that the harder I work, the more luck I seem to have. Performance

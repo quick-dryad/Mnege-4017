@@ -9,3 +9,4 @@ Predictive Analytics Database Cache Invalidation Success is not in what you have
 Load Balancing WebSockets Cloud Functions Don't be afraid to give up the good to go for the great. Database Indexing Framework To be the best, you must be able to handle the worst. Database Backend Success is not in what you have, but who you are. Event Sourcing
 Scalability API Quantum Computing A/B Testing Monitoring Dream big and dare to fail.
 Testing Kubernetes Python NLP Docker Simplicity is the ultimate sophistication. UX Optimization Cache Invalidation Containerization Load Testing Container Orchestration Success is not in what you have, but who you are.
+API Gateway Dream big and dare to fail. Opportunities don't happen. You create them. Stay hungry, stay foolish. Kubernetes Deployment
