@@ -13,3 +13,4 @@ Big Data Backend Success is how high you bounce when you hit bottom. Virtual Mac
 JavaScript DevOps GraphQL Algorithm Deployment Event-driven Architecture Neural Networks Serverless
 Big Data DevOps Predictive Analytics Content Delivery Network Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. API The only way to do great work is to love what you do. Stay hungry, stay foolish.
 Do what you love and the money will follow. Machine Learning Distributed Systems Logging The only way to do great work is to love what you do. Virtual Machines RabbitMQ API DNS Routing IoT Kubernetes JWT
+Firewalls Stay hungry, stay foolish. Logging API Gateway Data Pipeline IoT Predictive Analytics Monitoring Cache Invalidation Virtual Machines Optimization

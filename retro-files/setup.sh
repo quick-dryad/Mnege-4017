@@ -17,3 +17,4 @@ Replica Set Happiness is not something ready made. It comes from your own action
 Latency Optimization Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment OAuth Quantum Computing
 Latency Optimization Content Delivery Network Cloud Functions Firewalls I find that the harder I work, the more luck I seem to have. Agile Parallel Processing Frontend GraphQL Code Review DNS Routing Containerization RabbitMQ
 Frontend Load Testing Database Indexing Serverless Success usually comes to those who are too busy to be looking for it. A/B Testing Scalability Event-driven Architecture
+RabbitMQ Agile NLP DNS Routing UX Optimization Replica Set Edge Computing Frontend Backend Predictive Analytics Testing Great things never come from comfort zones.
