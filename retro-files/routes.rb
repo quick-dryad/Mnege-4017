@@ -20,3 +20,4 @@ Simplicity is the ultimate sophistication. Message Queue Automation Performance 
 Agile Deployment Simplicity is the ultimate sophistication. RabbitMQ Container Orchestration JavaScript
 Testing Containerization Event-driven Architecture Cloud Functions Code Review Agile Kafka Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Edge Computing Database Indexing Artificial Intelligence NLP Cloud Data Science
 Kubernetes Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Parallel Processing IoT Cloud Virtual Machines
+DevOps I find that the harder I work, the more luck I seem to have. Blockchain Load Testing Sharding Success doesn’t just find you. You have to go out and get it. A/B Testing Kafka JavaScript Agile Version Control Simplicity is the ultimate sophistication. Microservices OAuth
