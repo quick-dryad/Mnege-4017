@@ -16,3 +16,4 @@ Testing Don't be afraid to give up the good to go for the great. Data Science OA
 Virtual Machines Logging Database API DevOps Cloud Functions Version Control Pull Request Framework Backend Container Orchestration Microservices Serverless Database Indexing
 Content Delivery Network Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Frontend Kubernetes Kafka Dream big and dare to fail. Machine Learning OAuth GraphQL Simplicity is the ultimate sophistication. React The only way to do great work is to love what you do.
 I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. CI/CD Dream big and dare to fail. Latency Optimization Event Sourcing React Opportunities don't happen. You create them. RabbitMQ
+Cache Invalidation NLP API Gateway Docker Version Control Automation Success is not in what you have, but who you are.
