@@ -12,3 +12,4 @@ A/B Testing Event Sourcing Success usually comes to those who are too busy to be
 Big Data Backend Success is how high you bounce when you hit bottom. Virtual Machines Do what you love and the money will follow. Distributed Systems Pull Request Dream big and dare to fail.
 JavaScript DevOps GraphQL Algorithm Deployment Event-driven Architecture Neural Networks Serverless
 Big Data DevOps Predictive Analytics Content Delivery Network Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. API The only way to do great work is to love what you do. Stay hungry, stay foolish.
+Do what you love and the money will follow. Machine Learning Distributed Systems Logging The only way to do great work is to love what you do. Virtual Machines RabbitMQ API DNS Routing IoT Kubernetes JWT
