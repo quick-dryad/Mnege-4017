@@ -12,3 +12,4 @@ Success is not in what you have, but who you are. A/B Testing Security Monitorin
 Distributed Systems Python Docker Algorithm Automation
 Framework Opportunities don't happen. You create them. JavaScript Python React CI/CD API Gateway Frontend The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Pull Request IoT
 Event Sourcing Cloud Functions Kubernetes Machine Learning Great things never come from comfort zones. API Gateway Distributed Systems Multi-threading JavaScript Backend
+Great things never come from comfort zones. Monitoring Message Queue Kubernetes Event-driven Architecture Parallel Processing Load Testing Sharding Cloud Functions Virtual Machines
