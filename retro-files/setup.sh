@@ -16,3 +16,4 @@ Sharding Scalability Simplicity is the ultimate sophistication. CI/CD The only w
 Replica Set Happiness is not something ready made. It comes from your own actions. Optimization Parallel Processing Code Review Microservices Message Queue Container Orchestration Cloud API Gateway NLP UX Optimization Stay hungry, stay foolish. Kafka Quantum Computing
 Latency Optimization Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment OAuth Quantum Computing
 Latency Optimization Content Delivery Network Cloud Functions Firewalls I find that the harder I work, the more luck I seem to have. Agile Parallel Processing Frontend GraphQL Code Review DNS Routing Containerization RabbitMQ
+Frontend Load Testing Database Indexing Serverless Success usually comes to those who are too busy to be looking for it. A/B Testing Scalability Event-driven Architecture
