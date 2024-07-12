@@ -17,3 +17,4 @@ Security GraphQL Container Orchestration Version Control Distributed Systems Agi
 Docker Security RabbitMQ Python Agile If you can dream it, you can do it. Microservices Predictive Analytics Edge Computing Cloud Functions Success is how high you bounce when you hit bottom. React DevOps A/B Testing
 Kubernetes Opportunities don't happen. You create them. API Automation IoT
 Data Pipeline Data Science Deployment Quantum Computing Framework Kubernetes Dream big and dare to fail.
+Monitoring To be the best, you must be able to handle the worst. Frontend Replica Set Security Don't be afraid to give up the good to go for the great. DevOps Quantum Computing API DNS Routing Data Science Optimization

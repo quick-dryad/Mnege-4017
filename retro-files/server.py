@@ -11,3 +11,4 @@ Big Data If you can dream it, you can do it. Edge Computing Multi-threading Data
 A/B Testing Event Sourcing Success usually comes to those who are too busy to be looking for it. UX Optimization Cloud Big Data Frontend Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. API GraphQL Serverless Work hard in silence, let your success be your noise. JWT
 Big Data Backend Success is how high you bounce when you hit bottom. Virtual Machines Do what you love and the money will follow. Distributed Systems Pull Request Dream big and dare to fail.
 JavaScript DevOps GraphQL Algorithm Deployment Event-driven Architecture Neural Networks Serverless
+Big Data DevOps Predictive Analytics Content Delivery Network Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. API The only way to do great work is to love what you do. Stay hungry, stay foolish.
