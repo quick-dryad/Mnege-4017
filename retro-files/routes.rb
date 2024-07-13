@@ -17,3 +17,4 @@ Happiness is not something ready made. It comes from your own actions. Algorithm
 Replica Set Database Container Orchestration A/B Testing Load Balancing CI/CD Version Control Optimization Serverless Kafka IoT Database Indexing
 JWT Sharding OAuth Stay hungry, stay foolish. Automation Monitoring Do what you love and the money will follow.
 Simplicity is the ultimate sophistication. Message Queue Automation Performance Don't be afraid to give up the good to go for the great. RabbitMQ I find that the harder I work, the more luck I seem to have. Algorithm GraphQL WebSockets Load Testing
+Agile Deployment Simplicity is the ultimate sophistication. RabbitMQ Container Orchestration JavaScript

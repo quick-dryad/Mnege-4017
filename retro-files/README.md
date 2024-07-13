@@ -8,3 +8,4 @@ Opportunities don't happen. You create them. Message Queue Content Delivery Netw
 Work hard in silence, let your success be your noise. Serverless Event-driven Architecture JavaScript Sharding UX Optimization Quantum Computing Algorithm Artificial Intelligence Load Balancing RabbitMQ Lambda Functions Do what you love and the money will follow. Cloud
 Load Balancing Version Control Event-driven Architecture Testing Frontend Neural Networks Opportunities don't happen. You create them. Data Pipeline Message Queue Automation
 Multi-threading Parallel Processing Scalability Data Pipeline DevOps Blockchain Load Balancing Do what you love and the money will follow. Pull Request Testing Virtual Machines The only way to do great work is to love what you do. Container Orchestration
+Python IoT Scalability NLP Load Testing Event-driven Architecture Agile I find that the harder I work, the more luck I seem to have. Pull Request Database Indexing
