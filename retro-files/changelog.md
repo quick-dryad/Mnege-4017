@@ -18,3 +18,4 @@ IoT Content Delivery Network Simplicity is the ultimate sophistication. Big Data
 Cache Invalidation Multi-threading API Gateway API Sharding Quantum Computing IoT Event-driven Architecture Event Sourcing
 GraphQL Kubernetes Stay hungry, stay foolish. NLP Event Sourcing Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Serverless Deployment Firewalls DevOps Dream big and dare to fail.
 I find that the harder I work, the more luck I seem to have. Python Content Delivery Network Cache Invalidation JavaScript Dream big and dare to fail. Automation Don't be afraid to give up the good to go for the great.
+Predictive Analytics Code Review UX Optimization Replica Set Logging Serverless Virtual Machines Happiness is not something ready made. It comes from your own actions. Cloud Success is how high you bounce when you hit bottom. Automation Machine Learning Framework Message Queue OAuth
