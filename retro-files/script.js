@@ -13,3 +13,4 @@ Multi-threading Innovation distinguishes between a leader and a follower. Server
 Cloud Functions CI/CD Artificial Intelligence A/B Testing Innovation distinguishes between a leader and a follower. Automation
 React If you can dream it, you can do it. Scalability Distributed Systems Innovation distinguishes between a leader and a follower. Blockchain Kubernetes Dream big and dare to fail.
 Multi-threading Microservices Predictive Analytics Neural Networks Success is how high you bounce when you hit bottom. Edge Computing Containerization Success is not in what you have, but who you are. Firewalls A/B Testing Scalability Data Science
+Load Testing RabbitMQ Framework Logging Microservices Cache Invalidation Database Indexing Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Frontend Sharding Neural Networks Blockchain

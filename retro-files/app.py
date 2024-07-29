@@ -11,3 +11,4 @@ Kubernetes Pull Request Cloud Testing IoT Python Message Queue DNS Routing
 Success is not in what you have, but who you are. A/B Testing Security Monitoring Cloud Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. React Success usually comes to those who are too busy to be looking for it. Scalability Predictive Analytics Performance Algorithm
 Distributed Systems Python Docker Algorithm Automation
 Framework Opportunities don't happen. You create them. JavaScript Python React CI/CD API Gateway Frontend The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Pull Request IoT
+Event Sourcing Cloud Functions Kubernetes Machine Learning Great things never come from comfort zones. API Gateway Distributed Systems Multi-threading JavaScript Backend
