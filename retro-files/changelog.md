@@ -17,3 +17,4 @@ GraphQL Opportunities don't happen. You create them. Monitoring Data Science Ser
 IoT Content Delivery Network Simplicity is the ultimate sophistication. Big Data I find that the harder I work, the more luck I seem to have. API Gateway Algorithm DevOps Parallel Processing Virtual Machines Container Orchestration Frontend Machine Learning
 Cache Invalidation Multi-threading API Gateway API Sharding Quantum Computing IoT Event-driven Architecture Event Sourcing
 GraphQL Kubernetes Stay hungry, stay foolish. NLP Event Sourcing Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Serverless Deployment Firewalls DevOps Dream big and dare to fail.
+I find that the harder I work, the more luck I seem to have. Python Content Delivery Network Cache Invalidation JavaScript Dream big and dare to fail. Automation Don't be afraid to give up the good to go for the great.
