@@ -11,3 +11,4 @@ API Gateway Simplicity is the ultimate sophistication. Do what you love and the 
 Data Pipeline OAuth Agile Cloud Server Response RabbitMQ Database Success doesn’t just find you. You have to go out and get it. Multi-threading Container Orchestration
 NLP Event Sourcing Sharding Cloud Backend
 Server Response Security Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Data Science Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. IoT
+Container Orchestration Database Indexing Act as if what you do makes a difference. It does. Latency Optimization Replica Set OAuth Algorithm DNS Routing

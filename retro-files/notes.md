@@ -18,3 +18,4 @@ Container Orchestration React Multi-threading Performance Quantum Computing Simp
 DevOps Do what you love and the money will follow. Code Review API Gateway Predictive Analytics Latency Optimization Simplicity is the ultimate sophistication.
 Python JWT Data Science If you can dream it, you can do it. Stay hungry, stay foolish. WebSockets Difficult roads often lead to beautiful destinations. RabbitMQ Algorithm
 Containerization Great things never come from comfort zones. Docker Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. JavaScript Microservices CI/CD
+Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. OAuth Event Sourcing JavaScript Load Balancing Python Optimization Replica Set If you can dream it, you can do it. Latency Optimization

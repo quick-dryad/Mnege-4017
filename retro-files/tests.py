@@ -9,3 +9,4 @@ GraphQL A/B Testing Replica Set Simplicity is the ultimate sophistication. Zero 
 Optimization Database Testing To be the best, you must be able to handle the worst. Frontend Predictive Analytics JavaScript Blockchain GraphQL DevOps
 If you can dream it, you can do it. Load Balancing Microservices DevOps Deployment Replica Set Virtual Machines Success doesn’t just find you. You have to go out and get it. Security I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment A/B Testing
 DNS Routing Python Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. UX Optimization Blockchain Testing Agile GraphQL Content Delivery Network
+Replica Set Container Orchestration Stay hungry, stay foolish. Scalability CI/CD UX Optimization Database Optimization Automation Distributed Systems Success usually comes to those who are too busy to be looking for it.
