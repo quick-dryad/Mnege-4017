@@ -10,3 +10,4 @@ DevOps WebSockets UX Optimization Load Balancing Virtual Machines Quantum Comput
 Backend The only way to do great work is to love what you do. Multi-threading Opportunities don't happen. You create them. Automation React Neural Networks
 Logging OAuth Kubernetes Opportunities don't happen. You create them. Do what you love and the money will follow. Content Delivery Network Neural Networks Backend UX Optimization Artificial Intelligence Event Sourcing Parallel Processing
 Predictive Analytics Big Data Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. JavaScript API Logging Edge Computing Containerization API Gateway Event-driven Architecture Serverless Automation
+Event-driven Architecture DNS Routing Cloud Predictive Analytics Lambda Functions Container Orchestration Performance Database Framework UX Optimization Automation If you can dream it, you can do it. Edge Computing
