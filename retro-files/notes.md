@@ -17,3 +17,4 @@ IoT Dream big and dare to fail. Load Balancing Artificial Intelligence Version C
 Container Orchestration React Multi-threading Performance Quantum Computing Simplicity is the ultimate sophistication. Frontend Neural Networks Testing Predictive Analytics Version Control Database Indexing
 DevOps Do what you love and the money will follow. Code Review API Gateway Predictive Analytics Latency Optimization Simplicity is the ultimate sophistication.
 Python JWT Data Science If you can dream it, you can do it. Stay hungry, stay foolish. WebSockets Difficult roads often lead to beautiful destinations. RabbitMQ Algorithm
+Containerization Great things never come from comfort zones. Docker Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. JavaScript Microservices CI/CD

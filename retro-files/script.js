@@ -12,3 +12,4 @@ Containerization WebSockets React Framework Backend CI/CD I find that the harder
 Multi-threading Innovation distinguishes between a leader and a follower. Serverless Optimization Event Sourcing Load Testing A/B Testing Frontend Container Orchestration Simplicity is the ultimate sophistication. JavaScript
 Cloud Functions CI/CD Artificial Intelligence A/B Testing Innovation distinguishes between a leader and a follower. Automation
 React If you can dream it, you can do it. Scalability Distributed Systems Innovation distinguishes between a leader and a follower. Blockchain Kubernetes Dream big and dare to fail.
+Multi-threading Microservices Predictive Analytics Neural Networks Success is how high you bounce when you hit bottom. Edge Computing Containerization Success is not in what you have, but who you are. Firewalls A/B Testing Scalability Data Science
