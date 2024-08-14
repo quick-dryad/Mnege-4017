@@ -9,3 +9,4 @@ Kubernetes Edge Computing Message Queue Optimization Docker Artificial Intellige
 Scalability Database A/B Testing Virtual Machines Backend NLP Code Review Agile
 Kubernetes Pull Request Cloud Testing IoT Python Message Queue DNS Routing
 Success is not in what you have, but who you are. A/B Testing Security Monitoring Cloud Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. React Success usually comes to those who are too busy to be looking for it. Scalability Predictive Analytics Performance Algorithm
+Distributed Systems Python Docker Algorithm Automation
