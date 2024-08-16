@@ -11,3 +11,4 @@ Security JavaScript Server Response Load Balancing Success is not in what you ha
 Containerization WebSockets React Framework Backend CI/CD I find that the harder I work, the more luck I seem to have. Data Science A/B Testing Monitoring Testing
 Multi-threading Innovation distinguishes between a leader and a follower. Serverless Optimization Event Sourcing Load Testing A/B Testing Frontend Container Orchestration Simplicity is the ultimate sophistication. JavaScript
 Cloud Functions CI/CD Artificial Intelligence A/B Testing Innovation distinguishes between a leader and a follower. Automation
+React If you can dream it, you can do it. Scalability Distributed Systems Innovation distinguishes between a leader and a follower. Blockchain Kubernetes Dream big and dare to fail.
