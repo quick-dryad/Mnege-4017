@@ -7,3 +7,4 @@ Event Sourcing Blockchain DevOps Success doesn’t just find you. You have to go o
 Opportunities don't happen. You create them. Message Queue Content Delivery Network Happiness is not something ready made. It comes from your own actions. React
 Work hard in silence, let your success be your noise. Serverless Event-driven Architecture JavaScript Sharding UX Optimization Quantum Computing Algorithm Artificial Intelligence Load Balancing RabbitMQ Lambda Functions Do what you love and the money will follow. Cloud
 Load Balancing Version Control Event-driven Architecture Testing Frontend Neural Networks Opportunities don't happen. You create them. Data Pipeline Message Queue Automation
+Multi-threading Parallel Processing Scalability Data Pipeline DevOps Blockchain Load Balancing Do what you love and the money will follow. Pull Request Testing Virtual Machines The only way to do great work is to love what you do. Container Orchestration
