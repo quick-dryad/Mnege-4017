@@ -10,3 +10,4 @@ CI/CD GraphQL Testing Quantum Computing API Gateway Replica Set Zero Downtime De
 To be the best, you must be able to handle the worst. Logging Kubernetes DNS Routing Great things never come from comfort zones. RabbitMQ A/B Testing Kafka Quantum Computing Cache Invalidation
 Logging Virtual Machines Code Review React The only way to do great work is to love what you do. Kafka Testing Data Pipeline Security OAuth
 Backend Database Success usually comes to those who are too busy to be looking for it. Parallel Processing Deployment IoT GraphQL
+Sharding Load Balancing Event-driven Architecture Firewalls Security Microservices Work hard in silence, let your success be your noise. Automation Multi-threading Containerization GraphQL WebSockets Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Lambda Functions
