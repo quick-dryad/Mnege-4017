@@ -16,3 +16,4 @@ RabbitMQ If you can dream it, you can do it. Algorithm The only way to do great 
 GraphQL Opportunities don't happen. You create them. Monitoring Data Science Serverless CI/CD Great things never come from comfort zones. Zero Downtime Deployment
 IoT Content Delivery Network Simplicity is the ultimate sophistication. Big Data I find that the harder I work, the more luck I seem to have. API Gateway Algorithm DevOps Parallel Processing Virtual Machines Container Orchestration Frontend Machine Learning
 Cache Invalidation Multi-threading API Gateway API Sharding Quantum Computing IoT Event-driven Architecture Event Sourcing
+GraphQL Kubernetes Stay hungry, stay foolish. NLP Event Sourcing Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Serverless Deployment Firewalls DevOps Dream big and dare to fail.
