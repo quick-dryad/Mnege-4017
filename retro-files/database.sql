@@ -8,3 +8,4 @@ Don't be afraid to give up the good to go for the great. Cache Invalidation Kafk
 Artificial Intelligence Zero Downtime Deployment Database Indexing Success usually comes to those who are too busy to be looking for it. Sharding Database Cloud Functions Logging Neural Networks Kubernetes Great things never come from comfort zones. DNS Routing
 DevOps WebSockets UX Optimization Load Balancing Virtual Machines Quantum Computing Replica Set Database Indexing Agile Latency Optimization Predictive Analytics Event Sourcing Simplicity is the ultimate sophistication. Sharding JavaScript
 Backend The only way to do great work is to love what you do. Multi-threading Opportunities don't happen. You create them. Automation React Neural Networks
+Logging OAuth Kubernetes Opportunities don't happen. You create them. Do what you love and the money will follow. Content Delivery Network Neural Networks Backend UX Optimization Artificial Intelligence Event Sourcing Parallel Processing
