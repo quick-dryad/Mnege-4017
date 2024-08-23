@@ -16,3 +16,4 @@ JavaScript Success is not in what you have, but who you are. Content Delivery Ne
 IoT Dream big and dare to fail. Load Balancing Artificial Intelligence Version Control Blockchain
 Container Orchestration React Multi-threading Performance Quantum Computing Simplicity is the ultimate sophistication. Frontend Neural Networks Testing Predictive Analytics Version Control Database Indexing
 DevOps Do what you love and the money will follow. Code Review API Gateway Predictive Analytics Latency Optimization Simplicity is the ultimate sophistication.
+Python JWT Data Science If you can dream it, you can do it. Stay hungry, stay foolish. WebSockets Difficult roads often lead to beautiful destinations. RabbitMQ Algorithm

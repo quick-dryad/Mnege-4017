@@ -15,3 +15,4 @@ Message Queue Microservices Load Balancing Innovation distinguishes between a le
 Do what you love and the money will follow. Predictive Analytics Sharding Latency Optimization Data Pipeline Database Backend
 Happiness is not something ready made. It comes from your own actions. Algorithm The only way to do great work is to love what you do. Edge Computing Kubernetes Act as if what you do makes a difference. It does. Event-driven Architecture
 Replica Set Database Container Orchestration A/B Testing Load Balancing CI/CD Version Control Optimization Serverless Kafka IoT Database Indexing
+JWT Sharding OAuth Stay hungry, stay foolish. Automation Monitoring Do what you love and the money will follow.
