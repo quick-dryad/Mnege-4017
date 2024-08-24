@@ -15,3 +15,4 @@ A/B Testing Automation Testing Parallel Processing Do what you love and the mone
 RabbitMQ If you can dream it, you can do it. Algorithm The only way to do great work is to love what you do. JWT Don't be afraid to give up the good to go for the great. Container Orchestration API Framework OAuth Database Opportunities don't happen. You create them. Frontend
 GraphQL Opportunities don't happen. You create them. Monitoring Data Science Serverless CI/CD Great things never come from comfort zones. Zero Downtime Deployment
 IoT Content Delivery Network Simplicity is the ultimate sophistication. Big Data I find that the harder I work, the more luck I seem to have. API Gateway Algorithm DevOps Parallel Processing Virtual Machines Container Orchestration Frontend Machine Learning
+Cache Invalidation Multi-threading API Gateway API Sharding Quantum Computing IoT Event-driven Architecture Event Sourcing
