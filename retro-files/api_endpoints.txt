@@ -9,3 +9,4 @@ Happiness is not something ready made. It comes from your own actions. Edge Comp
 Neural Networks Microservices Event-driven Architecture Machine Learning Success is how high you bounce when you hit bottom. Serverless Do what you love and the money will follow. Code Review
 Microservices Framework Cloud Functions Success doesn’t just find you. You have to go out and get it. Deployment Dream big and dare to fail. Multi-threading Parallel Processing Latency Optimization Agile Database Indexing React Load Testing
 Neural Networks Testing Containerization Happiness is not something ready made. It comes from your own actions. Latency Optimization Python Monitoring UX Optimization Kubernetes Microservices Pull Request Act as if what you do makes a difference. It does. Event Sourcing Data Science API Gateway
+JavaScript Stay hungry, stay foolish. DevOps Server Response The only way to do great work is to love what you do. Act as if what you do makes a difference. It does.

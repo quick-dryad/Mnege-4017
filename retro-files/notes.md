@@ -15,3 +15,4 @@ Success is how high you bounce when you hit bottom. Python JavaScript DNS Routin
 JavaScript Success is not in what you have, but who you are. Content Delivery Network API Gateway Logging GraphQL Message Queue Load Balancing DevOps Framework
 IoT Dream big and dare to fail. Load Balancing Artificial Intelligence Version Control Blockchain
 Container Orchestration React Multi-threading Performance Quantum Computing Simplicity is the ultimate sophistication. Frontend Neural Networks Testing Predictive Analytics Version Control Database Indexing
+DevOps Do what you love and the money will follow. Code Review API Gateway Predictive Analytics Latency Optimization Simplicity is the ultimate sophistication.
