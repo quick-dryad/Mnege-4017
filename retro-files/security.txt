@@ -6,3 +6,4 @@ Kafka NLP Distributed Systems React Event Sourcing
 Optimization Frontend Cache Invalidation Machine Learning Neural Networks Security Great things never come from comfort zones. GraphQL Multi-threading Latency Optimization Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. JavaScript API Python
 Event Sourcing Scalability API Gateway Deployment DevOps
 Security Optimization OAuth Version Control Innovation distinguishes between a leader and a follower. Artificial Intelligence Simplicity is the ultimate sophistication. Containerization Load Balancing
+Deployment OAuth Event Sourcing Code Review Data Science Message Queue Event-driven Architecture Distributed Systems Logging GraphQL Microservices Multi-threading Work hard in silence, let your success be your noise.

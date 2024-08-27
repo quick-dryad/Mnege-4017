@@ -10,3 +10,4 @@ Blockchain DNS Routing UX Optimization Version Control RabbitMQ Lambda Functions
 Docker Dream big and dare to fail. Security Database Indexing Performance Cloud Python Event-driven Architecture Don't be afraid to give up the good to go for the great. Artificial Intelligence Multi-threading
 Big Data Data Science UX Optimization Docker Agile Sharding
 Success doesn’t just find you. You have to go out and get it. Algorithm Opportunities don't happen. You create them. Virtual Machines Serverless If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. React Monitoring Innovation distinguishes between a leader and a follower.
+Quantum Computing Stay hungry, stay foolish. Big Data Predictive Analytics Event Sourcing I find that the harder I work, the more luck I seem to have. Neural Networks Scalability Database Indexing Database JavaScript API Gateway Replica Set
