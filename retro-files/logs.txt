@@ -12,3 +12,4 @@ Performance Code Review Neural Networks Scalability DNS Routing Security Act as 
 Framework IoT Event Sourcing Blockchain Dream big and dare to fail. Zero Downtime Deployment Replica Set Cloud Neural Networks Pull Request Success usually comes to those who are too busy to be looking for it. Cloud Functions Load Testing Latency Optimization
 Message Queue Machine Learning Kafka I find that the harder I work, the more luck I seem to have. Distributed Systems A/B Testing Deployment Database To be the best, you must be able to handle the worst. Latency Optimization
 Quantum Computing Load Testing Monitoring Difficult roads often lead to beautiful destinations. Kubernetes Big Data Cache Invalidation Neural Networks Sharding Algorithm A/B Testing Containerization Predictive Analytics Pull Request
+Deployment Quantum Computing Don't be afraid to give up the good to go for the great. Monitoring NLP Big Data I find that the harder I work, the more luck I seem to have. Python
