@@ -9,3 +9,4 @@ UX Optimization Container Orchestration If you can dream it, you can do it. Code
 Opportunities don't happen. You create them. Deployment Stay hungry, stay foolish. Success is not in what you have, but who you are. Latency Optimization Zero Downtime Deployment Dream big and dare to fail. Artificial Intelligence Big Data DevOps API Gateway
 Big Data If you can dream it, you can do it. Edge Computing Multi-threading Database
 A/B Testing Event Sourcing Success usually comes to those who are too busy to be looking for it. UX Optimization Cloud Big Data Frontend Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. API GraphQL Serverless Work hard in silence, let your success be your noise. JWT
+Big Data Backend Success is how high you bounce when you hit bottom. Virtual Machines Do what you love and the money will follow. Distributed Systems Pull Request Dream big and dare to fail.
