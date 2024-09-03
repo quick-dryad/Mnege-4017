@@ -6,3 +6,4 @@ Monitoring I find that the harder I work, the more luck I seem to have. Data Sci
 Event Sourcing Blockchain DevOps Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Data Pipeline Machine Learning Docker Content Delivery Network Pull Request
 Opportunities don't happen. You create them. Message Queue Content Delivery Network Happiness is not something ready made. It comes from your own actions. React
 Work hard in silence, let your success be your noise. Serverless Event-driven Architecture JavaScript Sharding UX Optimization Quantum Computing Algorithm Artificial Intelligence Load Balancing RabbitMQ Lambda Functions Do what you love and the money will follow. Cloud
+Load Balancing Version Control Event-driven Architecture Testing Frontend Neural Networks Opportunities don't happen. You create them. Data Pipeline Message Queue Automation
