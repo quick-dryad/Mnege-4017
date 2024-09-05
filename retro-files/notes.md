@@ -14,3 +14,4 @@ API Dream big and dare to fail. Container Orchestration Kubernetes Database Dock
 Success is how high you bounce when you hit bottom. Python JavaScript DNS Routing Load Testing Database Load Balancing Artificial Intelligence Innovation distinguishes between a leader and a follower. Server Response RabbitMQ Testing Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Multi-threading
 JavaScript Success is not in what you have, but who you are. Content Delivery Network API Gateway Logging GraphQL Message Queue Load Balancing DevOps Framework
 IoT Dream big and dare to fail. Load Balancing Artificial Intelligence Version Control Blockchain
+Container Orchestration React Multi-threading Performance Quantum Computing Simplicity is the ultimate sophistication. Frontend Neural Networks Testing Predictive Analytics Version Control Database Indexing
