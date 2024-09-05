@@ -9,3 +9,4 @@ Pull Request Container Orchestration Do what you love and the money will follow.
 Big Data JWT Security DNS Routing WebSockets Success is not in what you have, but who you are. Agile The only way to do great work is to love what you do. Database Indexing Opportunities don't happen. You create them. Monitoring Virtual Machines
 Security JavaScript Server Response Load Balancing Success is not in what you have, but who you are. Predictive Analytics Docker Cloud Functions
 Containerization WebSockets React Framework Backend CI/CD I find that the harder I work, the more luck I seem to have. Data Science A/B Testing Monitoring Testing
+Multi-threading Innovation distinguishes between a leader and a follower. Serverless Optimization Event Sourcing Load Testing A/B Testing Frontend Container Orchestration Simplicity is the ultimate sophistication. JavaScript

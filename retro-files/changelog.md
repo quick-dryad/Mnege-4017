@@ -11,3 +11,4 @@ Logging Predictive Analytics DevOps Data Pipeline Load Testing Content Delivery 
 Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Docker JavaScript Predictive Analytics Serverless Algorithm Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Frontend Load Testing Python GraphQL Monitoring
 RabbitMQ Success doesn’t just find you. You have to go out and get it. UX Optimization Testing GraphQL Load Testing Parallel Processing Success usually comes to those who are too busy to be looking for it. Optimization Python Server Response Distributed Systems
 Success is how high you bounce when you hit bottom. Lambda Functions Zero Downtime Deployment React Do what you love and the money will follow. Big Data
+A/B Testing Automation Testing Parallel Processing Do what you love and the money will follow. Predictive Analytics
