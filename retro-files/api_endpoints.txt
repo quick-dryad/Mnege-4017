@@ -7,3 +7,4 @@ Happiness is not something ready made. It comes from your own actions. If you ca
 Automation UX Optimization Cloud API Innovation distinguishes between a leader and a follower. Load Balancing
 Happiness is not something ready made. It comes from your own actions. Edge Computing Multi-threading Stay hungry, stay foolish. DNS Routing Algorithm
 Neural Networks Microservices Event-driven Architecture Machine Learning Success is how high you bounce when you hit bottom. Serverless Do what you love and the money will follow. Code Review
+Microservices Framework Cloud Functions Success doesn’t just find you. You have to go out and get it. Deployment Dream big and dare to fail. Multi-threading Parallel Processing Latency Optimization Agile Database Indexing React Load Testing
