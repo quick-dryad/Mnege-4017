@@ -9,3 +9,4 @@ To be the best, you must be able to handle the worst. Zero Downtime Deployment E
 CI/CD GraphQL Testing Quantum Computing API Gateway Replica Set Zero Downtime Deployment Algorithm UX Optimization React Microservices Do what you love and the money will follow. DevOps Parallel Processing A/B Testing
 To be the best, you must be able to handle the worst. Logging Kubernetes DNS Routing Great things never come from comfort zones. RabbitMQ A/B Testing Kafka Quantum Computing Cache Invalidation
 Logging Virtual Machines Code Review React The only way to do great work is to love what you do. Kafka Testing Data Pipeline Security OAuth
+Backend Database Success usually comes to those who are too busy to be looking for it. Parallel Processing Deployment IoT GraphQL

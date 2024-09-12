@@ -13,3 +13,4 @@ Database Success doesn’t just find you. You have to go out and get it. Distribut
 Parallel Processing Event Sourcing Server Response Latency Optimization Message Queue Great things never come from comfort zones. JWT Frontend CI/CD Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Data Science DevOps Multi-threading
 Data Science Kubernetes Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. DevOps Big Data Simplicity is the ultimate sophistication. Container Orchestration Backend
 Testing Don't be afraid to give up the good to go for the great. Data Science OAuth Stay hungry, stay foolish.
+Virtual Machines Logging Database API DevOps Cloud Functions Version Control Pull Request Framework Backend Container Orchestration Microservices Serverless Database Indexing
