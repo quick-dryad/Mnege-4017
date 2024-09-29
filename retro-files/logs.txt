@@ -9,3 +9,4 @@ Predictive Analytics Code Review Act as if what you do makes a difference. It do
 Edge Computing Lambda Functions Framework RabbitMQ Code Review Replica Set
 Serverless CI/CD Kafka UX Optimization Optimization Security Message Queue Multi-threading Great things never come from comfort zones. Quantum Computing Algorithm Backend Content Delivery Network Performance Cache Invalidation
 Performance Code Review Neural Networks Scalability DNS Routing Security Act as if what you do makes a difference. It does. Backend Success doesn’t just find you. You have to go out and get it. Serverless
+Framework IoT Event Sourcing Blockchain Dream big and dare to fail. Zero Downtime Deployment Replica Set Cloud Neural Networks Pull Request Success usually comes to those who are too busy to be looking for it. Cloud Functions Load Testing Latency Optimization
