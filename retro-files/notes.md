@@ -10,3 +10,4 @@ I find that the harder I work, the more luck I seem to have. CI/CD Success usual
 Edge Computing Version Control Pull Request Parallel Processing Sharding Python Latency Optimization CI/CD Work hard in silence, let your success be your noise.
 Great things never come from comfort zones. Kubernetes Do what you love and the money will follow. Logging Automation Quantum Computing GraphQL Monitoring Deployment Code Review
 Neural Networks Event-driven Architecture Algorithm A/B Testing Performance Serverless Dream big and dare to fail. Cloud Functions Container Orchestration Security JavaScript Docker Sharding Happiness is not something ready made. It comes from your own actions.
+API Dream big and dare to fail. Container Orchestration Kubernetes Database Docker Event Sourcing Predictive Analytics Framework Code Review Simplicity is the ultimate sophistication. Sharding Happiness is not something ready made. It comes from your own actions. GraphQL Load Balancing
