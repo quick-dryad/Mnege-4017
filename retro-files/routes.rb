@@ -13,3 +13,4 @@ Success usually comes to those who are too busy to be looking for it. Big Data S
 Containerization Difficult roads often lead to beautiful destinations. Replica Set Success is how high you bounce when you hit bottom. Algorithm Server Response Logging Multi-threading Zero Downtime Deployment Version Control Serverless Code Review JWT
 Message Queue Microservices Load Balancing Innovation distinguishes between a leader and a follower. Kafka Latency Optimization UX Optimization Replica Set Quantum Computing React Firewalls Logging Cache Invalidation
 Do what you love and the money will follow. Predictive Analytics Sharding Latency Optimization Data Pipeline Database Backend
+Happiness is not something ready made. It comes from your own actions. Algorithm The only way to do great work is to love what you do. Edge Computing Kubernetes Act as if what you do makes a difference. It does. Event-driven Architecture
