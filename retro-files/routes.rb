@@ -12,3 +12,4 @@ Database Indexing JWT If you can dream it, you can do it. Serverless GraphQL Mac
 Success usually comes to those who are too busy to be looking for it. Big Data Stay hungry, stay foolish. Scalability Cache Invalidation Event Sourcing UX Optimization Success is how high you bounce when you hit bottom.
 Containerization Difficult roads often lead to beautiful destinations. Replica Set Success is how high you bounce when you hit bottom. Algorithm Server Response Logging Multi-threading Zero Downtime Deployment Version Control Serverless Code Review JWT
 Message Queue Microservices Load Balancing Innovation distinguishes between a leader and a follower. Kafka Latency Optimization UX Optimization Replica Set Quantum Computing React Firewalls Logging Cache Invalidation
+Do what you love and the money will follow. Predictive Analytics Sharding Latency Optimization Data Pipeline Database Backend
