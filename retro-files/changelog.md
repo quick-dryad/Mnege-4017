@@ -7,3 +7,4 @@ RabbitMQ Opportunities don't happen. You create them. The only way to do great w
 Database Indexing Algorithm If you can dream it, you can do it. DNS Routing Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Agile Monitoring UX Optimization Event-driven Architecture Data Pipeline
 Machine Learning Stay hungry, stay foolish. Opportunities don't happen. You create them. Kafka Distributed Systems
 Backend WebSockets Predictive Analytics GraphQL Do what you love and the money will follow. To be the best, you must be able to handle the worst. API Success is how high you bounce when you hit bottom. Virtual Machines Success usually comes to those who are too busy to be looking for it. Monitoring
+Logging Predictive Analytics DevOps Data Pipeline Load Testing Content Delivery Network Distributed Systems IoT Database GraphQL Performance Optimization Machine Learning
