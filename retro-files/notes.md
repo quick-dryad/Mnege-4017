@@ -9,3 +9,4 @@ IoT Success is how high you bounce when you hit bottom. Machine Learning Docker 
 I find that the harder I work, the more luck I seem to have. CI/CD Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does.
 Edge Computing Version Control Pull Request Parallel Processing Sharding Python Latency Optimization CI/CD Work hard in silence, let your success be your noise.
 Great things never come from comfort zones. Kubernetes Do what you love and the money will follow. Logging Automation Quantum Computing GraphQL Monitoring Deployment Code Review
+Neural Networks Event-driven Architecture Algorithm A/B Testing Performance Serverless Dream big and dare to fail. Cloud Functions Container Orchestration Security JavaScript Docker Sharding Happiness is not something ready made. It comes from your own actions.
