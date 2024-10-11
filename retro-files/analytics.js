@@ -12,3 +12,4 @@ Message Queue Automation Firewalls I find that the harder I work, the more luck 
 Data Pipeline Pull Request OAuth NLP JavaScript
 I find that the harder I work, the more luck I seem to have. Distributed Systems Replica Set To be the best, you must be able to handle the worst. API Gateway DevOps
 Machine Learning Algorithm JavaScript Server Response Success is how high you bounce when you hit bottom. API Gateway Automation Neural Networks Event Sourcing IoT Monitoring
+Stay hungry, stay foolish. Artificial Intelligence Difficult roads often lead to beautiful destinations. WebSockets Cache Invalidation React Database Server Response Containerization Load Testing Automation I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. RabbitMQ
