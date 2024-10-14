@@ -7,3 +7,4 @@ IoT Container Orchestration RabbitMQ The only way to do great work is to love wh
 Serverless Cache Invalidation UX Optimization Load Balancing Content Delivery Network Load Testing RabbitMQ Containerization Version Control
 Kubernetes Edge Computing Message Queue Optimization Docker Artificial Intelligence Latency Optimization Dream big and dare to fail. Data Science Neural Networks Difficult roads often lead to beautiful destinations.
 Scalability Database A/B Testing Virtual Machines Backend NLP Code Review Agile
+Kubernetes Pull Request Cloud Testing IoT Python Message Queue DNS Routing
