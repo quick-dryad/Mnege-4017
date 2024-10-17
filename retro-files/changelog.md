@@ -5,3 +5,4 @@ Python Virtual Machines Difficult roads often lead to beautiful destinations. In
 Distributed Systems Multi-threading Replica Set Edge Computing Logging Work hard in silence, let your success be your noise. Cloud Functions Optimization
 RabbitMQ Opportunities don't happen. You create them. The only way to do great work is to love what you do. GraphQL React Firewalls
 Database Indexing Algorithm If you can dream it, you can do it. DNS Routing Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Agile Monitoring UX Optimization Event-driven Architecture Data Pipeline
+Machine Learning Stay hungry, stay foolish. Opportunities don't happen. You create them. Kafka Distributed Systems
