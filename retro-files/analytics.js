@@ -11,3 +11,4 @@ Act as if what you do makes a difference. It does. Lambda Functions Event Sourci
 Message Queue Automation Firewalls I find that the harder I work, the more luck I seem to have. Performance GraphQL
 Data Pipeline Pull Request OAuth NLP JavaScript
 I find that the harder I work, the more luck I seem to have. Distributed Systems Replica Set To be the best, you must be able to handle the worst. API Gateway DevOps
+Machine Learning Algorithm JavaScript Server Response Success is how high you bounce when you hit bottom. API Gateway Automation Neural Networks Event Sourcing IoT Monitoring

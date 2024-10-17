@@ -3,3 +3,4 @@ WebSockets I find that the harder I work, the more luck I seem to have. Cloud Mu
 Cloud Functions Great things never come from comfort zones. Python The only way to do great work is to love what you do. IoT GraphQL Cloud JavaScript
 Serverless Container Orchestration Success is how high you bounce when you hit bottom. Backend Database Testing Distributed Systems JWT Machine Learning A/B Testing Stay hungry, stay foolish. Performance Code Review
 Monitoring I find that the harder I work, the more luck I seem to have. Data Science Testing Work hard in silence, let your success be your noise. Load Balancing To be the best, you must be able to handle the worst. Quantum Computing UX Optimization Don't be afraid to give up the good to go for the great. Security
+Event Sourcing Blockchain DevOps Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Data Pipeline Machine Learning Docker Content Delivery Network Pull Request
