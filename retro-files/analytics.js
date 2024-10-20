@@ -10,3 +10,4 @@ Difficult roads often lead to beautiful destinations. Data Pipeline Deployment M
 Act as if what you do makes a difference. It does. Lambda Functions Event Sourcing Monitoring Success usually comes to those who are too busy to be looking for it. Agile Data Pipeline Logging
 Message Queue Automation Firewalls I find that the harder I work, the more luck I seem to have. Performance GraphQL
 Data Pipeline Pull Request OAuth NLP JavaScript
+I find that the harder I work, the more luck I seem to have. Distributed Systems Replica Set To be the best, you must be able to handle the worst. API Gateway DevOps
