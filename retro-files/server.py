@@ -7,3 +7,4 @@ Message Queue To be the best, you must be able to handle the worst. Success does
 API Logging Algorithm Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Cloud Functions React Event-driven Architecture
 UX Optimization Container Orchestration If you can dream it, you can do it. Code Review NLP Dream big and dare to fail. Logging The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Parallel Processing Algorithm Frontend Virtual Machines Simplicity is the ultimate sophistication.
 Opportunities don't happen. You create them. Deployment Stay hungry, stay foolish. Success is not in what you have, but who you are. Latency Optimization Zero Downtime Deployment Dream big and dare to fail. Artificial Intelligence Big Data DevOps API Gateway
+Big Data If you can dream it, you can do it. Edge Computing Multi-threading Database
