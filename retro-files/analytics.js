@@ -9,3 +9,4 @@ Quantum Computing Zero Downtime Deployment Big Data Optimization Content Deliver
 Difficult roads often lead to beautiful destinations. Data Pipeline Deployment Monitoring Blockchain Distributed Systems
 Act as if what you do makes a difference. It does. Lambda Functions Event Sourcing Monitoring Success usually comes to those who are too busy to be looking for it. Agile Data Pipeline Logging
 Message Queue Automation Firewalls I find that the harder I work, the more luck I seem to have. Performance GraphQL
+Data Pipeline Pull Request OAuth NLP JavaScript
