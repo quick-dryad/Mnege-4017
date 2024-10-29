@@ -5,3 +5,4 @@ Do what you love and the money will follow. Pull Request Kafka Load Testing Load
 Automation WebSockets React Container Orchestration Event Sourcing Success usually comes to those who are too busy to be looking for it.
 Containerization Stay hungry, stay foolish. API Gateway Database Docker CI/CD DNS Routing
 Blockchain Lambda Functions Parallel Processing Innovation distinguishes between a leader and a follower. Frontend RabbitMQ Content Delivery Network Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment NLP Deployment Testing API Container Orchestration React
+Multi-threading Blockchain Security Event Sourcing Pull Request Agile Cache Invalidation Framework IoT Testing Latency Optimization Cloud Functions Cloud React
