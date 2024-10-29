@@ -8,3 +8,4 @@ Logging Content Delivery Network Machine Learning Opportunities don't happen. Yo
 Backend Load Balancing RabbitMQ Parallel Processing Database Microservices Security Deployment Predictive Analytics API Gateway
 Data Pipeline Sharding OAuth Artificial Intelligence Container Orchestration I find that the harder I work, the more luck I seem to have. Scalability Code Review
 A/B Testing JWT Optimization Firewalls Stay hungry, stay foolish. Kafka Version Control Virtual Machines
+Event-driven Architecture A/B Testing Multi-threading Success is how high you bounce when you hit bottom. Automation Success usually comes to those who are too busy to be looking for it. Cloud Functions API Gateway Simplicity is the ultimate sophistication. Cache Invalidation Zero Downtime Deployment Serverless Backend Replica Set Scalability
