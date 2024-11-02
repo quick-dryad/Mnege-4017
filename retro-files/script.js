@@ -6,3 +6,4 @@ Database Data Pipeline A/B Testing Opportunities don't happen. You create them. 
 Server Response Database Indexing API Gateway To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Code Review Event Sourcing Stay hungry, stay foolish. Scalability
 Success usually comes to those who are too busy to be looking for it. Cache Invalidation API Version Control DevOps Event-driven Architecture Cloud
 Pull Request Container Orchestration Do what you love and the money will follow. Blockchain Virtual Machines Microservices
+Big Data JWT Security DNS Routing WebSockets Success is not in what you have, but who you are. Agile The only way to do great work is to love what you do. Database Indexing Opportunities don't happen. You create them. Monitoring Virtual Machines
