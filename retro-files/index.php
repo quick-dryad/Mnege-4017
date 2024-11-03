@@ -6,3 +6,4 @@ Kafka Distributed Systems Kubernetes Pull Request Optimization
 React Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Cloud Container Orchestration Great things never come from comfort zones. Replica Set I find that the harder I work, the more luck I seem to have.
 To be the best, you must be able to handle the worst. Data Science Docker Code Review Containerization Python
 Predictive Analytics Database Cache Invalidation Success is not in what you have, but who you are. Artificial Intelligence Kafka Load Testing Pull Request Neural Networks DNS Routing Lambda Functions Success is how high you bounce when you hit bottom.
+Load Balancing WebSockets Cloud Functions Don't be afraid to give up the good to go for the great. Database Indexing Framework To be the best, you must be able to handle the worst. Database Backend Success is not in what you have, but who you are. Event Sourcing
