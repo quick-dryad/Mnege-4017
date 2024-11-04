@@ -4,3 +4,4 @@ Load Testing Success doesn’t just find you. You have to go out and get it. Simpl
 Lambda Functions The only way to do great work is to love what you do. Algorithm Happiness is not something ready made. It comes from your own actions. Cache Invalidation Backend
 OAuth Virtual Machines API Firewalls React Microservices Machine Learning GraphQL Performance Multi-threading Load Balancing Edge Computing Innovation distinguishes between a leader and a follower. Algorithm
 Python Performance Success doesn’t just find you. You have to go out and get it. Quantum Computing Serverless
+Cache Invalidation Optimization Containerization Event Sourcing JWT Monitoring Quantum Computing Sharding Zero Downtime Deployment Artificial Intelligence RabbitMQ IoT NLP Security I find that the harder I work, the more luck I seem to have.
