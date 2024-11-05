@@ -7,3 +7,4 @@ Deployment API Data Pipeline I find that the harder I work, the more luck I seem
 Logging Content Delivery Network Machine Learning Opportunities don't happen. You create them. Edge Computing
 Backend Load Balancing RabbitMQ Parallel Processing Database Microservices Security Deployment Predictive Analytics API Gateway
 Data Pipeline Sharding OAuth Artificial Intelligence Container Orchestration I find that the harder I work, the more luck I seem to have. Scalability Code Review
+A/B Testing JWT Optimization Firewalls Stay hungry, stay foolish. Kafka Version Control Virtual Machines
