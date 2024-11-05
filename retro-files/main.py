@@ -4,3 +4,4 @@ Algorithm Success is not in what you have, but who you are. Kafka Performance AP
 Do what you love and the money will follow. Pull Request Kafka Load Testing Load Balancing Neural Networks Cache Invalidation Python Containerization Success usually comes to those who are too busy to be looking for it. DNS Routing To be the best, you must be able to handle the worst. Cloud Docker Event-driven Architecture
 Automation WebSockets React Container Orchestration Event Sourcing Success usually comes to those who are too busy to be looking for it.
 Containerization Stay hungry, stay foolish. API Gateway Database Docker CI/CD DNS Routing
+Blockchain Lambda Functions Parallel Processing Innovation distinguishes between a leader and a follower. Frontend RabbitMQ Content Delivery Network Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment NLP Deployment Testing API Container Orchestration React
