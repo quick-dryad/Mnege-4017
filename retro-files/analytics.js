@@ -8,3 +8,4 @@ Zero Downtime Deployment Scalability Load Balancing Event-driven Architecture Si
 Quantum Computing Zero Downtime Deployment Big Data Optimization Content Delivery Network Deployment Algorithm Neural Networks Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. UX Optimization WebSockets Cloud Functions Data Science
 Difficult roads often lead to beautiful destinations. Data Pipeline Deployment Monitoring Blockchain Distributed Systems
 Act as if what you do makes a difference. It does. Lambda Functions Event Sourcing Monitoring Success usually comes to those who are too busy to be looking for it. Agile Data Pipeline Logging
+Message Queue Automation Firewalls I find that the harder I work, the more luck I seem to have. Performance GraphQL

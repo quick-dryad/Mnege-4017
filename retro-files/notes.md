@@ -6,3 +6,4 @@ Security WebSockets Happiness is not something ready made. It comes from your ow
 Database Optimization Replica Set Opportunities don't happen. You create them. Blockchain Scalability Code Review Parallel Processing
 Success is how high you bounce when you hit bottom. Blockchain React Kubernetes Great things never come from comfort zones. Edge Computing
 IoT Success is how high you bounce when you hit bottom. Machine Learning Docker Difficult roads often lead to beautiful destinations. Backend Deployment Framework Cloud Load Testing
+I find that the harder I work, the more luck I seem to have. CI/CD Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does.
