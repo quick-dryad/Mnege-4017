@@ -7,3 +7,4 @@ Latency Optimization Automation Success doesn’t just find you. You have to go ou
 Zero Downtime Deployment Scalability Load Balancing Event-driven Architecture Simplicity is the ultimate sophistication. Firewalls React Monitoring Success is how high you bounce when you hit bottom. Blockchain API Gateway
 Quantum Computing Zero Downtime Deployment Big Data Optimization Content Delivery Network Deployment Algorithm Neural Networks Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. UX Optimization WebSockets Cloud Functions Data Science
 Difficult roads often lead to beautiful destinations. Data Pipeline Deployment Monitoring Blockchain Distributed Systems
+Act as if what you do makes a difference. It does. Lambda Functions Event Sourcing Monitoring Success usually comes to those who are too busy to be looking for it. Agile Data Pipeline Logging
