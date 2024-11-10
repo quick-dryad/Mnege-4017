@@ -4,3 +4,4 @@ Do what you love and the money will follow. Code Review Virtual Machines Kuberne
 Performance Load Balancing CI/CD Code Review Edge Computing
 Testing Automation Stay hungry, stay foolish. Container Orchestration API Serverless
 Deployment API Data Pipeline I find that the harder I work, the more luck I seem to have. Parallel Processing Containerization UX Optimization
+Logging Content Delivery Network Machine Learning Opportunities don't happen. You create them. Edge Computing
