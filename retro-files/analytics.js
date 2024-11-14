@@ -6,3 +6,4 @@ Dream big and dare to fail. Performance Agile WebSockets Event Sourcing JWT Quan
 Latency Optimization Automation Success doesn’t just find you. You have to go out and get it. Performance Container Orchestration Content Delivery Network IoT Algorithm
 Zero Downtime Deployment Scalability Load Balancing Event-driven Architecture Simplicity is the ultimate sophistication. Firewalls React Monitoring Success is how high you bounce when you hit bottom. Blockchain API Gateway
 Quantum Computing Zero Downtime Deployment Big Data Optimization Content Delivery Network Deployment Algorithm Neural Networks Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. UX Optimization WebSockets Cloud Functions Data Science
+Difficult roads often lead to beautiful destinations. Data Pipeline Deployment Monitoring Blockchain Distributed Systems

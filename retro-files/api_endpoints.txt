@@ -5,3 +5,4 @@ NLP Performance Multi-threading RabbitMQ GraphQL To be the best, you must be abl
 Kafka API IoT Performance Blockchain Zero Downtime Deployment Kubernetes
 Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Cache Invalidation Data Pipeline Data Science To be the best, you must be able to handle the worst. Scalability Difficult roads often lead to beautiful destinations. Big Data DNS Routing
 Automation UX Optimization Cloud API Innovation distinguishes between a leader and a follower. Load Balancing
+Happiness is not something ready made. It comes from your own actions. Edge Computing Multi-threading Stay hungry, stay foolish. DNS Routing Algorithm
