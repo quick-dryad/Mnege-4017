@@ -4,3 +4,4 @@ Big Data Opportunities don't happen. You create them. To be the best, you must b
 Monitoring Event-driven Architecture JavaScript Latency Optimization Pull Request Content Delivery Network Machine Learning Deployment Blockchain
 Container Orchestration Security Firewalls React Docker GraphQL Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Framework
 IoT Container Orchestration RabbitMQ The only way to do great work is to love what you do. Replica Set Neural Networks Testing Deployment API Gateway A/B Testing Kafka Dream big and dare to fail. Virtual Machines Event Sourcing
+Serverless Cache Invalidation UX Optimization Load Balancing Content Delivery Network Load Testing RabbitMQ Containerization Version Control

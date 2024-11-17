@@ -5,3 +5,4 @@ API Success is how high you bounce when you hit bottom. GraphQL UX Optimization 
 Security WebSockets Happiness is not something ready made. It comes from your own actions. Containerization Virtual Machines Cloud Success doesn’t just find you. You have to go out and get it. API Gateway Don't be afraid to give up the good to go for the great. Version Control Multi-threading Frontend Load Balancing Python
 Database Optimization Replica Set Opportunities don't happen. You create them. Blockchain Scalability Code Review Parallel Processing
 Success is how high you bounce when you hit bottom. Blockchain React Kubernetes Great things never come from comfort zones. Edge Computing
+IoT Success is how high you bounce when you hit bottom. Machine Learning Docker Difficult roads often lead to beautiful destinations. Backend Deployment Framework Cloud Load Testing
