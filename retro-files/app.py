@@ -3,3 +3,4 @@ Monitoring I find that the harder I work, the more luck I seem to have. OAuth Su
 Big Data Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Backend Machine Learning Database Success doesn’t just find you. You have to go out and get it.
 Monitoring Event-driven Architecture JavaScript Latency Optimization Pull Request Content Delivery Network Machine Learning Deployment Blockchain
 Container Orchestration Security Firewalls React Docker GraphQL Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Framework
+IoT Container Orchestration RabbitMQ The only way to do great work is to love what you do. Replica Set Neural Networks Testing Deployment API Gateway A/B Testing Kafka Dream big and dare to fail. Virtual Machines Event Sourcing
