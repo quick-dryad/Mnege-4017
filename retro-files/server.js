@@ -4,3 +4,4 @@ I find that the harder I work, the more luck I seem to have. Code Review Optimiz
 JWT DNS Routing Firewalls Logging Data Science
 Backend Database WebSockets DevOps Optimization Serverless Version Control
 Framework Do what you love and the money will follow. NLP Serverless Load Balancing The only way to do great work is to love what you do. Scalability Code Review Predictive Analytics Event Sourcing RabbitMQ
+Serverless Deployment Lambda Functions NLP Kubernetes Zero Downtime Deployment Success is not in what you have, but who you are. The only way to do great work is to love what you do. Scalability
