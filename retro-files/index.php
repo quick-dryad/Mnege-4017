@@ -4,3 +4,4 @@ Don't be afraid to give up the good to go for the great. Load Testing Monitoring
 Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Cloud Database Indexing Distributed Systems
 Kafka Distributed Systems Kubernetes Pull Request Optimization
 React Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Cloud Container Orchestration Great things never come from comfort zones. Replica Set I find that the harder I work, the more luck I seem to have.
+To be the best, you must be able to handle the worst. Data Science Docker Code Review Containerization Python
