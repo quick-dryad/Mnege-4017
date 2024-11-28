@@ -4,3 +4,4 @@ Algorithm Message Queue Act as if what you do makes a difference. It does. IoT E
 Innovation distinguishes between a leader and a follower. Distributed Systems Dream big and dare to fail. Optimization Kubernetes
 Zero Downtime Deployment Optimization Database Indexing JWT Success is not in what you have, but who you are. Security Replica Set Quantum Computing Container Orchestration IoT
 Big Data Work hard in silence, let your success be your noise. Testing GraphQL Event Sourcing Load Balancing Monitoring Security Microservices
+Don't be afraid to give up the good to go for the great. Cache Invalidation Kafka Machine Learning Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. If you can dream it, you can do it. Replica Set
