@@ -1,2 +1,3 @@
 WebSockets Great things never come from comfort zones. Security OAuth CI/CD Edge Computing Stay hungry, stay foolish. Container Orchestration
 A/B Testing Scalability Act as if what you do makes a difference. It does. Quantum Computing Lambda Functions DNS Routing Load Testing
+Load Testing Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. NLP Great things never come from comfort zones. Version Control Container Orchestration Innovation distinguishes between a leader and a follower. Monitoring Success is not in what you have, but who you are. If you can dream it, you can do it. Message Queue
