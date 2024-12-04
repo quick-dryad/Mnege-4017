@@ -3,3 +3,4 @@ UX Optimization Success usually comes to those who are too busy to be looking fo
 I find that the harder I work, the more luck I seem to have. Code Review Optimization OAuth Data Science If you can dream it, you can do it. JavaScript Monitoring Edge Computing Big Data Database Act as if what you do makes a difference. It does. Containerization Parallel Processing Work hard in silence, let your success be your noise.
 JWT DNS Routing Firewalls Logging Data Science
 Backend Database WebSockets DevOps Optimization Serverless Version Control
+Framework Do what you love and the money will follow. NLP Serverless Load Balancing The only way to do great work is to love what you do. Scalability Code Review Predictive Analytics Event Sourcing RabbitMQ
