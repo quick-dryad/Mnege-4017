@@ -4,3 +4,4 @@ API Gateway Neural Networks Agile Don't be afraid to give up the good to go for 
 Data Science API Gateway Kubernetes IoT Great things never come from comfort zones. Load Balancing WebSockets Predictive Analytics
 Dream big and dare to fail. Performance Agile WebSockets Event Sourcing JWT Quantum Computing
 Latency Optimization Automation Success doesn’t just find you. You have to go out and get it. Performance Container Orchestration Content Delivery Network IoT Algorithm
+Zero Downtime Deployment Scalability Load Balancing Event-driven Architecture Simplicity is the ultimate sophistication. Firewalls React Monitoring Success is how high you bounce when you hit bottom. Blockchain API Gateway
