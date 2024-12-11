@@ -2,3 +2,4 @@ To be the best, you must be able to handle the worst. Frontend Server Response C
 Load Balancing Version Control Success is how high you bounce when you hit bottom. JavaScript Optimization Event-driven Architecture Work hard in silence, let your success be your noise. Server Response Cloud Functions React Cloud Success doesn’t just find you. You have to go out and get it.
 Automation Code Review Cloud Functions WebSockets Sharding Database If you can dream it, you can do it.
 NLP Performance Multi-threading RabbitMQ GraphQL To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. Firewalls
+Kafka API IoT Performance Blockchain Zero Downtime Deployment Kubernetes
