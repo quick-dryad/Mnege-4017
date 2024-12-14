@@ -1,2 +1,3 @@
 UX Optimization Success doesn’t just find you. You have to go out and get it. Scalability API Deployment Firewalls Latency Optimization Sharding Framework Virtual Machines Distributed Systems I find that the harder I work, the more luck I seem to have. JWT Kafka
 Monitoring I find that the harder I work, the more luck I seem to have. OAuth Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. Load Balancing Docker Performance WebSockets Success usually comes to those who are too busy to be looking for it.
+Big Data Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Backend Machine Learning Database Success doesn’t just find you. You have to go out and get it.
