@@ -3,3 +3,4 @@ Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations.
 UX Optimization Cloud Functions GraphQL API Work hard in silence, let your success be your noise. JWT Agile Dream big and dare to fail. Multi-threading Parallel Processing Sharding API Gateway CI/CD Replica Set Stay hungry, stay foolish.
 Edge Computing Act as if what you do makes a difference. It does. DevOps Python Multi-threading Event Sourcing Zero Downtime Deployment Code Review NLP Message Queue JavaScript DNS Routing
 Backend Blockchain Cloud Innovation distinguishes between a leader and a follower. Server Response JWT Event-driven Architecture Data Science Sharding
+JWT Containerization Database Indexing Work hard in silence, let your success be your noise. Edge Computing Do what you love and the money will follow.
