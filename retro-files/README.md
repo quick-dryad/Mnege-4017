@@ -1,1 +1,2 @@
 Work hard in silence, let your success be your noise. Cloud Functions Security Distributed Systems Difficult roads often lead to beautiful destinations. React Algorithm Edge Computing Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Automation
+WebSockets I find that the harder I work, the more luck I seem to have. Cloud Multi-threading Success doesn’t just find you. You have to go out and get it. Backend Sharding Performance
