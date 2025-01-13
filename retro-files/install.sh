@@ -1,1 +1,2 @@
 IoT DNS Routing Sharding If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Replica Set DevOps Pull Request Code Review Edge Computing Dream big and dare to fail. Big Data Data Science Deployment Innovation distinguishes between a leader and a follower.
+Innovation distinguishes between a leader and a follower. Parallel Processing Frontend Event-driven Architecture Monitoring
